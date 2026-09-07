@@ -1,0 +1,749 @@
+                                                                                                                                                                        Last Updated: August 2025
+
+                                                                   State Artificial Intelligence Legislative Tracker
+
+
+INTRODUCTION
+Substantial legislative attention has been focused on artificial intelligence (AI) regulation as governments, organizations, and policymakers grapple with how to regulate the technology. Below
+you will find brief summaries of state legislation related to AI, categorized by three focus areas. All legislation has been introduced in the current state legislative session. The document is
+divided into the following sections:
+    •      Consumer-Facing – Covers legislation that impacts AI business practices and consumers, particularly regarding health care, patient care, and media.
+    •      Developers – Covers legislation that pertains to owners, operators, and developers of AI systems and AI data centers.
+    •      Workplace-Facing – Covers legislation that relates to the use of AI in hiring, law enforcement, surveillance, and among state employees.
+
+
+QUICK LINKS
+    I.         Consumer-Facing
+    II.        Developers
+    III.       Workplace-Facing
+
+
+ENACTED LEGISLATION
+    •      NY Relates to the disclosure of automated employment decision-making tools and maintaining an artificial intelligence inventory (S822 / A433) – Signed into Law (2/14/2025)
+    •      CO Preventing Unauthorized Disclosure of Intimate Digital Depictions Act (SB 288) - Signed into Law (6/2/2025)
+    •      TX Relating to use of artificial intelligence in utilization review conducted for health benefit plans. (HB 2922 / SB 815) – Signed into Law (6/20/2025)
+    •      TX Relating to electronic health record requirements; authorizing a civil penalty. (HB 4503 / SB 1188) – Signed into Law (6/20/2025)
+    •      TX Relating to the regulation and use of artificial intelligence systems and the management of data by governmental entities. (SB 1964) – Signed into Law (6/202025)
+    •      TX Texas Responsible Artificial Intelligence Government Act (TRAIGA) (HB 149) – Signed into Law (6/22/2025)
+    •      CT An Act Concerning Health Insurance and Patient Protection (SB 10) – Signed into Law (6/24/2025)
+
+
+
+
+                                                                                                 1
+                                                                                                                                          © 2025 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                                   Last Updated: August 2025
+
+
+                                          RELEVANT LEGISLATION FROM CURRENT SESSION
+  I.     Consumer-Facing
+
+             State                  Bill Number                     Bill Status                    Relevant Provisions
+California                 SB 11                           Passed Senate          Provides that California’s “right of publicity” law
+                                                                                  governing the commercial misappropriation of a
+                                                                                  person’s name, image, or likeness applies to digital
+                                                                                  replicas and requires entities that make available to
+                                                                                  consumers AI tools capable of producing digital
+                                                                                  replicas provide a consumer warning, among other
+                                                                                  things.
+California                 AB 410                          Passed Assembly        Requires bots to disclose that they are AI and not
+                                                                                  intentionally mislead people.
+California                 AB 512                          Passed Assembly        Restricts and creates standards for AI used by
+                                                                                  specialized health care service plans and specialized
+                                                                                  health insurers.
+California                 AB 489                          Passed Assembly        Prohibits AI technologies from indicating or implying
+                                                                                  that the advice, care, reports, or assessments provided
+                                                                                  through AI are provided by a natural person with the
+                                                                                  appropriate health care license.
+California                 AB 682                          Passed Assembly        Requires health insurers to include specified
+                                                                                  information for each month, including the number of
+                                                                                  claimed denied that at any point were processed,
+                                                                                  adjudicated, or reviewed with artificial intelligence or
+                                                                                  other predictive algorithms.
+
+
+
+
+                                                               2
+
+                                                                                       © 2025 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                              Last Updated: August 2025
+
+
+California   AB 853    Passed Assembly      Requires a GenAI system hosting platform to ensure that
+                                            any GenAI system it hosts includes permanent or
+                                            extraordinarily difficult to remove disclosures in the
+                                            content created or significantly altered by the system.
+
+California   SB 503    Passed Senate        Requires developers and deployers of AI systems to make
+                                            reasonable efforts to identify AI systems used to support
+                                            clinical decision-making or health care resource
+                                            allocation that are known or have a reasonably
+                                            foreseeable risk for biased impacts in the system’s
+                                            outputs; requires developers and deployers to mitigate
+                                            such risk.
+
+
+
+California   AB 1018   Passed Assembly      Regulates the development and deployment of an
+                                            automated decision system used to make consequential
+                                            decisions.
+
+
+
+Colorado     SB 288    Signed by Governor   Creates a cause of action for nonconsensual disclosure of
+                       (6.2.2025)           an intimate digital depiction created or altered using AI.
+
+
+
+
+                           3
+
+                                                  © 2025 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                               Last Updated: August 2025
+
+
+Colorado      SB 318    Failed               Amends Colorado SB 24-205, which created consumer
+                                             protections in interactions with AI, by redefining
+                                             “algorithmic discrimination”; exempting specified
+                                             technologies; and eliminating the requirement that a
+                                             developer or deployer notify the attorney general of any
+                                             known or reasonably foreseeable risks of algorithmic
+                                             discrimination arising from the intended uses of the high-
+                                             risk AI system, among other things.
+
+Connecticut   SB 10     Signed by Governor   Prohibits the use of AI to make an adverse determination
+                        (3.14.2025)          based on medical necessity.
+
+
+
+Connecticut   SB 2      Failed               Comprehensive regulations for high-risk AI systems,
+                                             focusing on consumer protection and the reduction of
+                                             algorithmic discrimination across various industries.
+
+
+Connecticut   HB 5045   Failed               Seeks to amend existing statutes to criminalize the
+                                             unauthorized creation and distribution of digitally
+                                             manipulated intimate images, with a specific focus on
+                                             nonconsensual "deep fake" pornography.
+
+
+
+Connecticut   HB 5587   Failed               Prohibits health insurers from using AI as the primary
+                                             method to deny health insurance claims.
+
+
+
+
+                            4
+
+                                                   © 2025 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                        Last Updated: August 2025
+
+
+Connecticut   HB 6846   Failed       Prohibits the distribution of deceptive synthetic media
+                                     within the ninety-day period preceding an election or
+                                     primary.
+Connecticut   SB 1440   Failed       Criminalizes unauthorized dissemination of intimate
+                                     images that are digitally altered or created through the use
+                                     of AI.
+
+Connecticut   HB 5590   Failed       Amends existing statutes to prohibit health insurers from
+                                     utilizing artificial intelligence in the denial of health
+                                     insurance claims.
+
+
+
+Connecticut   HB 5598   Failed       Criminalizes the creation and distribution of artificial
+                                     intelligence-generated pornographic images of
+                                     individuals without their consent.
+
+
+
+Georgia       SB 167    Introduced   Provides broadly for private entities that employ certain
+                                     AI systems to guard against discrimination caused by
+                                     such systems.
+
+
+
+Georgia       HB 478    Introduced   Requires that AI-generated content used in commerce or
+                                     trade include a disclaimer.
+
+
+
+
+                            5
+
+                                           © 2025 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                       Last Updated: August 2025
+
+
+Georgia    HB 566    Introduced                      Provides civil liability for the unauthorized use of a
+                                                     digital replica, among other things.
+
+Georgia    HB 715    Introduced                      Prohibits the use of AI without human oversight for
+                                                     making housing determinations.
+
+Illinois   SB 1425   Re-referred to Assignments*     Provides that the Department of Insurance's regulatory
+                                                     oversight of insurers include oversight of an insurer's use
+                                                     of AI systems to make or support adverse determinations
+                                                     that affect consumers, among other things.
+
+
+Illinois   HB 3021   Re-referred     to      Rules   Amends the Consumer Fraud and Deceptive Business
+                     Committee**                     Practices Act. Provides that it is an unlawful practice for
+                                                     any person to engage in a commercial transaction or trade
+                                                     practice with a consumer in which: (1) the consumer is
+                                                     communicating or otherwise interacting with a chatbot,
+                                                     artificial intelligence agent, avatar, or other computer
+                                                     technology that engages in a textual or aural
+                                                     conversation; (2) the communication may mislead or
+                                                     deceive a reasonable consumer to believe that the
+                                                     consumer is communicating with a human representative;
+                                                     and (3) the consumer is not notified in a clear and
+                                                     conspicuous manner that the consumer is communicating
+                                                     with an artificial intelligence system and not a human
+                                                     representative.
+
+
+
+
+                         6
+
+                                                           © 2025 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                             Last Updated: August 2025
+
+
+Illinois   SB 2259           Re-referred to Assignments*   Amends the Medical Practice Act of 1987. The act
+                                                           defines terms and provides that a health facility, clinic,
+                                                           physician's office, or office of a group practice that uses
+                                                           generative artificial intelligence to generate written or
+                                                           verbal patient communications pertaining to patient
+                                                           clinical information shall ensure that the communications
+                                                           meet certain criteria.
+
+
+
+New York   A 768 / S 1962    Introduced                    Regulates the use of high-risk AI decision systems across
+                                                           various industries, including finance, healthcare,
+                                                           education, and employment. It seeks to prevent
+                                                           algorithmic discrimination by requiring developers and
+                                                           deployers to implement comprehensive risk management
+                                                           policies and conduct regular impact assessments.
+
+New York   A 8884 / S 1169   Passed Senate                 Regulates the development and use of certain AI systems
+                                                           to prevent algorithmic discrimination; requires
+                                                           independent audits of high risk AI systems; provides for
+                                                           enforcement by the attorney general and a private right of
+                                                           action.
+
+New York   A 235             Introduced                    Requires the owner, licensee, or operator of a visual or
+                                                           audio generative AI system to take steps to prohibit its
+                                                           users from creating unauthorized realistic depictions of
+                                                           public officials.
+
+
+
+
+                                 7
+
+                                                                 © 2025 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                            Last Updated: August 2025
+
+
+New York   A 1280            Introduced   Establishes the crime of unlawful dissemination or
+                                          publication of a fabricated photographic, videographic, or
+                                          audio record as a class E felony.
+
+New York   A 1509 / S 1815   Introduced   Requires publishers of books created wholly or partially
+                                          with the use of generative artificial intelligence to
+                                          disclose such use of generative artificial intelligence
+                                          before the completion of such sale; applies to all printed
+                                          and digital books consisting of text, pictures, audio,
+                                          puzzles, games or any combination thereof.
+
+
+New York   S 2414            Introduced   Requires political communications that use synthetic
+                                          media to disclose that they were created with the
+                                          assistance of AI; requires committees that use synthetic
+                                          media to maintain records of such usage.
+
+
+New York   A 3265            Introduced   Enacts the New York AI bill of rights to provide residents
+                                          of the state with rights and protections to ensure that any
+                                          system making decisions without human intervention
+                                          impacting their lives do so lawfully, properly, and with
+                                          meaningful oversight.
+
+
+
+
+                                 8
+
+                                                © 2025 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                      Last Updated: August 2025
+
+
+New York   A 8556 / S 7896     Passed Assembly      Prescribes requirements and safeguards for the use of an
+                                                    AI algorithm or other software tool for the purpose of
+                                                    utilization review for health and accident insurance.
+
+
+
+
+Texas      HB 2922 / SB 815    Signed by Governor   Restricts a utilization review agent from using AI to make
+                               (6.20.2025)          or partly make an adverse determination.
+
+
+
+Texas      HB 4503 / SB 1188   Signed by Governor   Requires a health practitioner to review all records
+                               (6.20.2025)          created with AI and disclose the practitioner’s use of AI
+                                                    to the practitioner’s patients.
+Texas      SB 1411             Failed               Prohibits physicians or health care providers from using
+                                                    clinical AI-based algorithms to discriminate on the basis
+                                                    of a protected characteristic, among other things.
+
+Texas      HB 366              Failed               Requires disclosure of political advertising containing
+                                                    altered media.
+
+
+
+Texas      HB 556              Failed               Makes it a criminal offense to distribute AI images with
+                                                    the intent to influence the outcome of an election.
+
+
+
+
+                                   9
+
+                                                          © 2025 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                    Last Updated: August 2025
+
+
+Texas   HB 3694             Failed               Requires covered platforms to notify and remove explicit
+                                                 images of an identifiable individual.
+
+
+Texas   HB 3950 / SB 1960   Failed               Creates a private cause of action for the unauthorized use
+                                                 of a digital replica; disclosing that the digital replica was
+                                                 generated through the use of AI is not a defense.
+
+Texas   HB 4018 / SB 1822   Failed               Regulates the use of AI to conduct a utilization review of
+                                                 health benefit plans.
+
+Texas   HB 4455             Failed               Requires healthcare providers to disclose if they are using
+                                                 AI.
+
+Texas   HB 4635             Failed               Requires insurers to disclose if a denial determination
+                                                 was made using AI.
+
+Texas   SB 2567             Failed               Requires the use of AI to determine pricing to be
+                                                 disclosed.
+
+
+Texas   HB 5496             Failed               Imposes certain requirements on persons who use AI in
+                                                 conducting business or otherwise providing a good or
+                                                 service, including operating or providing access to a
+                                                 social media platform, creating or distributing political
+                                                 advertising, or providing financial services.
+Texas   HB 149              Signed by Governor   Regulates the use of AI systems in the state.
+                            (6.22.2025)
+
+
+
+                                10
+
+                                                       © 2025 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                Last Updated: August 2025
+
+
+Texas      HB 5517   Failed   Allows users to bring action against a social media
+                              platform to compel the platform to remove unwanted AI-
+                              generated images.
+
+Texas      SB 668    Failed   Requires certain covered entities providing lending,
+                              underwriting, risk assessment, investing, or hiring decision
+                              services in Texas to provide disclosures related to its use of
+                              AI models.
+Texas      SB 2966   Failed   Establishes a framework to govern the use of AI systems in
+                              critical decision-making by private companies; ensures
+                              consumer protections.
+
+Virginia   HB 2268   Failed   Establishes a division to oversee and enforce laws governing
+                              AI.
+
+
+
+
+                         11
+
+                                    © 2025 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                           Last Updated: August 2025
+
+
+  II.    Developers
+
+             State              Bill Number                Bill Status                       Relevant Provisions
+California            SB 468                  Introduced                 Imposes a duty on a covered deployer who deploys a high-
+                                                                         risk AI system that processes personal information to
+                                                                         protect personal information held by the covered deployer,
+                                                                         subject to certain requirements.
+California            SB 53                   Passed Senate              Requires developers who harness an extraordinary amount
+                                                                         of computing power to create, implement, and publish a
+                                                                         safety and security protocol and a transparency report for
+                                                                         each released model; establishes a critical incident
+                                                                         reporting mechanism; provides whistleblower protections
+                                                                         for employees and contractors of large developers who
+                                                                         report risks or noncompliance.
+California            AB 316                  Passed Assembly            Prohibits a defendant who developed, modified, or used
+                                                                         AI from asserting a defense that the AI autonomously
+                                                                         caused the harm to the plaintiff.
+California            SB 243                  Passed Senate              Imposes restrictions on chatbot operators, including
+                                                                         requiring an operator of a companion chatbot to prevent
+                                                                         the chatbot platform from providing rewards to a user at
+                                                                         unpredictable intervals and requiring an operator to
+                                                                         annually report to the Office of Suicide Prevention certain
+                                                                         things.
+California            AB 412                  Passed Assembly            Requires developers to post training data publicly and
+                                                                         document any copyrighted materials that the developer
+                                                                         knows were used to train the model.
+
+California            AB 1405                 Passed Assembly            New regulations for AI auditors in California, aimed at
+                                                                         enhancing accountability and transparency in the use of AI
+                                                                         systems.
+
+                                                 12
+
+                                                                               © 2025 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                 Last Updated: August 2025
+
+
+California    SB 420    Passed Senate          Requires a developer or a deployer of a high-risk
+                                               automated decision system to perform an impact
+                                               assessment on the system before making it publicly
+                                               available, among other things.
+
+California    AB 979    Passed Assembly        The California Cybersecurity Integration Center is tasked
+                                               with enhancing the state's cybersecurity framework,
+                                               particularly in relation to artificial intelligence (AI) and
+                                               other emerging technologies. Its mission focuses on
+                                               mitigating the risks and impacts of cyber incidents on
+                                               California's economy and critical infrastructure.
+Colorado      HB 1212   Failed                 Prohibits AI developers from retaliating against
+                                               whistleblowers; requires developers to notice all workers
+                                               working on a foundation model of the worker’s rights
+                                               under the bill; requires a developer to create and provide
+                                               an internal whistleblower process.
+Connecticut   HB 5076   Failed                 Seeks to improve energy and water efficiency standards
+                                               for AI data centers. It mandates that these centers source
+                                               at least 50% of their energy from renewable sources and
+                                               implement energy storage systems alongside modern grid
+                                               infrastructure.
+Illinois      HB 3041   Re-referred to Rules   Provides that a covered entity (any entity or any person,
+                        Committee**            other than an individual acting in a non-commercial
+                                               context, that alone or jointly with others determines the
+                                               purposes and means of collecting, processing, or
+                                               transferring covered data) may not collect, process, or
+                                               transfer covered data unless the collection, processing, or
+                                               transfer is limited to what is reasonably necessary and
+                                               proportionate.
+
+
+
+                            13
+
+                                                     © 2025 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                              Last Updated: August 2025
+
+
+Illinois   SB 1792            Re-referred to Assignments*   Requires the owner, licensee, or operator of a generative
+                                                            AI system to conspicuously display a warning on the
+                                                            system's user interface that is reasonably calculated to
+                                                            consistently apprise the user that the outputs of the
+                                                            generative AI system may be inaccurate or inappropriate.
+Illinois   HB 3506            Re-referred to Rules          Requires a developer to produce, implement, follow, and
+                              Committee**                   conspicuously publish a safety and security protocol that
+                                                            includes specified information. Provides that, no less than
+                                                            every 90 days, a developer shall produce and
+                                                            conspicuously publish a risk assessment report that
+                                                            includes specified information. Provides that, at least once
+                                                            every calendar year, a developer shall retain a reputable
+                                                            third-party auditor to produce a report assessing whether
+                                                            the developer has complied with its safety and security
+                                                            protocol.
+New York   S 934A / A 3411B   Passed Senate                 Requires the owner, licensee or operator of a generative
+                                                            AI system to conspicuously display a warning on the
+                                                            system's user interface that is reasonably calculated to
+                                                            consistently apprise the user that the outputs of the
+                                                            generative artificial intelligence system may be
+                                                            inaccurate.
+New York   S 6955 / A 6578    Introduced                    Establishes the AI Training Data Transparency Act
+                                                            requiring developers of generative AI models or services
+                                                            to post on the developer's website information regarding
+                                                            the data used by the developer to train the generative AI
+                                                            model or service, including a high-level summary of the
+                                                            datasets used in the development of such system or
+                                                            service.
+
+
+
+
+                                  14
+
+                                                                  © 2025 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                  Last Updated: August 2025
+
+
+New York   S 8331A             Introduced                     Requires developers of generative AI systems or services
+                                                              to post certain information on the developer's website
+                                                              regarding video, audio, text and data from a covered
+                                                              publication used to train the generative AI system or
+                                                              service; allows journalism providers to bring an action for
+                                                              damages or injunctive relief against developers.
+New York   A 8833              Introduced                     Establishes the Understanding Artificial Responsibility
+                                                              Act, requiring developers of covered models to be strictly
+                                                              liable for certain injuries.
+
+
+New York   S 6953B             Passed Assembly; Returned to   Regulates the training and use of advanced AI systems
+                               Senate                         known as frontier models.
+
+
+
+Virginia   HB 747              Failed                         Establishes regulations for developers and deployers of
+                                                              high-risk AI systems in Virginia, focusing on mitigating
+                                                              algorithmic discrimination and ensuring transparency.
+
+
+Virginia   HB 2250             Failed                         Requires developers of AI to disclose information about
+                                                              their training data sets and to retain information about their
+                                                              data sets.
+
+
+Virginia   HB 2121 / SB 1417   Failed                         Requires a developer of an artificial intelligence system or
+                                                              service to apply provenance data to synthetic digital
+                                                              content that is generated by such developer's generative
+                                                              artificial intelligence system or service and requires a
+
+
+                                   15
+
+                                                                    © 2025 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                        Last Updated: August 2025
+
+
+                                        developer to make a provenance application tool and a
+                                        provenance reader available to the public.
+
+
+
+Virginia   HB 2554 / SB 1161   Failed   Requires developers of AI systems to implement
+                                        reasonable procedures to prevent downstream use without
+                                        required disclosures, among other things.
+
+
+
+
+                                   16
+
+                                             © 2025 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                               Last Updated: August 2025
+
+
+  III.     Workplace-Facing
+
+             State                      Bill Number             Bill Status                       Relevant Provisions
+California                    SB 7                    Passed Senate           Restricts and creates standards of use for AI tools in state
+                                                                              government hiring, among other things.
+
+California                    SB 833                  Passed Senate           Establishes human oversight mechanism for AI systems in
+                                                                              California’s critical infrastructure, requiring a human to
+                                                                              monitor and review and approve any plan or action proposed
+                                                                              by the covered AI system before execution.
+California                    SB 238                  Passed Senate           Requires an employer to annually report all the workplace
+                                                                              surveillance tools they are using in the workplace.
+
+California                    SB 366                  Introduced              Requires the Department of General Services to contract with
+                                                                              the University of California, Los Angeles Labor Center to
+                                                                              conduct a study evaluating the impact of AI on worker well-
+                                                                              being, job quality, types, different populations, and state
+                                                                              revenues.
+California                    SB 524                  Passed Senate           Requires law enforcement agencies in California to establish
+                                                                              policies governing the use of AI in the creation of official
+                                                                              reports.
+
+Colorado                      HB 1264                 Failed                  Prohibits surveillance-based discrimination against a
+                                                                              consumer or worker based on surveillance data through the
+                                                                              use of automated decision systems to inform wages or prices.
+
+
+
+
+                                                          17
+
+                                                                                    © 2025 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                       Last Updated: August 2025
+
+
+Connecticut   SB 1249   Failed       Outlines legislative changes in Connecticut aimed at
+                                     enhancing the management and regulation of AI and data
+                                     governance. A key provision is the establishment of a Chief
+                                     Data Officer responsible for overseeing data management
+                                     across state agencies, facilitating data sharing, and ensuring
+                                     data quality to promote accountability and prevent
+                                     discrimination.
+
+Connecticut   SB 1484   Failed       Limits use of electronic monitoring by employers and
+                                     establishes AI standards for employers.
+
+
+
+
+Georgia       SB 37     Introduced   Requires state government entities to develop and maintain
+                                     AI usage plans.
+
+
+
+
+Georgia       SB 164    Introduced   Prohibits surveillance-based wage discrimination.
+
+
+
+
+                            18
+
+                                           © 2025 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                  Last Updated: August 2025
+
+
+Georgia    SB 104    Introduced                 Restricts the state government use of any AI system
+                                                developed or associated with China.
+
+
+
+
+Illinois   SB 1366   Referred to Assignments*   Requires the Department of Innovation and Technology to
+                                                adopt rules establishing policies and procedures concerning
+                                                the development, procurement, deployment, use, and
+                                                assessment of AI by agencies of state government; prohibits
+                                                the deployment and use of AI by state government agencies,
+                                                unless permitted by rules adopted by the Department.
+
+
+Illinois   SB 2117   Referred to Assignments*   Amends the Department of Innovation and Technology Act;
+                                                directs the Generative AI and Natural Language Processing
+                                                Task Force to: (i) recommend policies and procedures
+                                                concerning the procurement, deployment, and use by State
+                                                agencies of systems that employ generative AI; (ii)
+                                                recommend policies and procedures concerning uses by state
+                                                agencies of generative AI that should be prohibited; and (iii)
+                                                assess the use of generative AI by state agencies on the
+                                                provision of state services; adds a date by which the Task
+                                                Force must deliver an addendum to its report and adds to the
+                                                Task Force the Chief Procurement Officer for General
+                                                Services.
+
+
+
+
+                        19
+
+                                                      © 2025 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                 Last Updated: August 2025
+
+
+Illinois   HB 3529         Re-referred to Rules Committee** Requires the Department of Innovation and Technology to
+                                                            adopt rules regulating businesses that use AI systems to
+                                                            ensure compliance with the 5 principles of AI governance.
+
+
+
+
+Illinois   HB 3720         Re-referred to Rules Committee** Sets forth provisions prohibiting a state agency, or any entity
+                                                            acting on behalf of an agency, from utilizing or applying any
+                                                            automated decision-making system, directly or indirectly,
+                                                            without continuous meaningful human review when
+                                                            performing any of the agency's specified functions.
+
+
+
+New York   S 822 / A 433   Signed by Governor                  Relates to the disclosure of automated employment decision-
+                           (2.14.25)                           making tools; requires the office of information technology
+                                                               services to maintain an artificial intelligence inventory;
+                                                               provides that the use of artificial intelligence systems shall
+                                                               not affect the existing rights of employees pursuant to an
+                                                               existing collective bargaining agreement, or the existing
+                                                               representational      relationships      among       employee
+                                                               organizations or the bargaining relationships between the
+                                                               employer and an employee organization.
+
+
+
+
+                               20
+
+                                                                     © 2025 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                    Last Updated: August 2025
+
+
+New York   A 1952              Introduced           Requires employers and employment agencies to notify
+                                                    candidates for employment if machine learning technology is
+                                                    used to make hiring decisions prior to the use of such
+                                                    technology.
+
+
+
+
+Texas      SB 1964             Signed by Governor   Reviews and regulates state government use of AI.
+                               (6.20.2025)
+
+
+
+
+Texas      SB 2490             Failed               Outlines an amendment to the Business & Commerce Code
+                                                    in Texas concerning the use of biometric identifiers in AI
+                                                    applications.
+
+
+
+
+Texas      HB 5118 / SB 2991   Failed               Authorizes a study on employer and state agency use of
+                                                    automated employment decision tools in assessing an
+                                                    applicant’s suitability for a position.
+
+
+
+
+                                   21
+
+                                                          © 2025 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                                                                                                    Last Updated: August 2025
+
+
+ Texas                                 SB 2473                                                    Failed                                     Restricts and creates standards of use for AI tools in state
+                                                                                                                                             government hiring.
+
+
+
+
+ Virginia                              HB 2046 / SB 1214                                          Failed                                     Creates requirements for the development, deployment, and
+                                                                                                                                             use of high-risk artificial intelligence systems by public
+                                                                                                                                             bodies.
+
+
+
+
+* Illinois may carryover legislation to 2026. During even-numbered years, the Committee on Assignments must refer to a Senate committee appropriation bills implementing the budget and other legislative
+measures deemed by the Committee on Assignments to be of an emergency nature or to be of substantial importance to the operation of government. See Ill. Senate Rule 3-7(b).
+
+** Illinois may carryover legislation to 2026. During even-numbered years, the Rules Committee must refer to a standing committee or a special committee appropriation bills implementing the budget and other
+legislative measures deemed by the Committee on Assignments to be of an emergency nature or to be of substantial importance to the operation of government. The Rules Committee may refer any legislative
+measure to a joint committee of the House and Senate created by joint resolution. See Ill. House Rule 18.
+
+
+
+
+                                                                                                       22
+
+                                                                                                                                                    © 2025 STEPTOE LLP ALL RIGHTS RESERVED
+

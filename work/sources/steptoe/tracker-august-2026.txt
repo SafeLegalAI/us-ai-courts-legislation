@@ -1,0 +1,934 @@
+                                                                                                                                                            Last Updated: August 3, 2026
+
+
+                                                            2026 State Artificial Intelligence Legislative Tracker
+
+
+INTRODUCTION
+Substantial legislative attention has been focused on artificial intelligence (AI) regulation as governments, organizations, and policymakers grapple with how to regulate the
+technology. Below you will find brief summaries of state legislation related to AI, categorized by three focus areas. All legislation in this tracker has been introduced in the
+current state legislative session. The document is divided into the following sections:
+         Civil Liberties and Consumer Protections – Covers legislation that establishes civil protections and regulates AI use for the benefit of consumers.
+         Restrictions on Developers and Deployers – Covers legislation that pertains to owners, operators, and developers of AI systems.
+         Employment and Internal Company Use – Covers legislation that relates to the use of AI in hiring and in the workplace, as well as technological displacement.
+         Healthcare and Insurance – Covers legislation that pertains to the use of AI in healthcare, namely regarding utilization review, prior authorization, and claim denials.
+
+Please note, this tracker is carefully curated to reflect select topics and does not represent all AI-related legislation introduced. Additionally, the tracker only contains
+legislation from five states which have emerged as leaders on this front: California, Illinois, Massachusetts, New York, and Virginia.
+
+QUICK LINKS
+   I.        Civil Liberties and Consumer Protections
+   II.       Restrictions on Developers and Deployers
+   III.      Employment and Internal Company Use
+   IV.       Healthcare and Insurance
+
+ENACTED LEGISLATION
+Civil Liberties and Consumer Protections: N/A
+Restrictions on Developers and Deployers
+    IL SB 315: Artificial Intelligence Safety Measures Act
+    NY A 6453B / S 6953B: Responsible AI Safety and Education Act (RAISE) Act
+    NY A 9449 / S 8828: Relates to transparency and safety requirements for developers of artificial intelligence models.
+    VA HB 797 / SB 384: Joint Commission on Technology and Science; artificial intelligence, independent verification organizations.
+
+
+                                                                                           1
+                                                                                                                                  © 2026 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                 Last Updated: August 3, 2026
+
+Employment and Internal Company Use: N/A
+Healthcare and Insurance: N/A
+
+
+
+
+                                           2
+                                               © 2026 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                                                                        Last Updated: August 3, 2026
+
+
+                                                         RELEVANT LEGISLATION FROM CURRENT SESSION
+  I.     Civil Liberties and Consumer Protections
+
+State           Bill Number                                        Bill Status              Relevant Provisions
+California      Companion chatbots: children’s safety. (AB         Passed Assembly          Requires companion chatbot operators to take certain measures, including user age
+                2023 / SB 1119)                                    (5/26/2026)              verification and an annual comprehensive risk assessment, with respect to child
+                                                                   Passed Senate            safety. Requires independent audits of chatbots and for the auditor to submit an AI
+                                                                   (5/19/2026)              child safety audit report to the Attorney General.
+California      Leading Ethical AI Development (LEAD) for          Vetoed by Governor       Prohibits a person, partnership, corporation, business entity, or state or local
+                Kids Act (AB 1064)                                                          government agency that makes a companion chatbot available to users from making
+                                                                                            a companion chatbot available to a child unless the companion chatbot is not
+                                                                                            foreseeably capable of doing certain things that could harm a child.
+California      Tenancy: digitally altered images: disclosure.     Passed Assembly          Requires real estate brokers to disclose the use of a digitally altered image.
+                (AB 2025)                                          (5/14/2026)
+California      Artificial intelligence technology (SB 11)         Vetoed by Governor       Provides that California’s “right of publicity” law governing the commercial
+                                                                                            misappropriation of a person’s name, image, or likeness applies to digital replicas.
+                                                                                            Requires entities that make available to consumers AI tools capable of producing
+                                                                                            digital replicas to provide a consumer warning that unlawful use of the technology
+                                                                                            may result in civil or criminal liability, among other things.
+California      False advertising: synthetic digital performers.   Passed Senate            Expands the scope of unlawful advertising practice to include the use of a synthetic
+                (SB 1050)                                          (5/28/2026)              performer without a clear and conspicuous disclosure that the performer is synthetic.
+California      Digital Dignity Act (SB 1142)                      Introduced               Clarifies that false impersonation includes the use of a digital replica with the intent
+                                                                                            to impersonate another for purposes of prescribed criminal provisions. Provides that
+                                                                                            violators are liable for defamation in a civil action, as well as additional liability
+                                                                                            depending on the use of another’s name, voice, signature, photograph, or likeness for
+                                                                                            commercial purposes. Requires platforms which facilitate the creation of digital
+                                                                                            replicas to implement a mechanism by which users can revoke access to their digital
+                                                                                            replica. Requires providers to maintain sufficient records to demonstrate compliance.
+California      Health-related consumer products and               Passed Senate            Requires an advertisement that uses AI-generated content of a natural person to
+                services: artificial intelligence. (SB 1146)       (5/18/2026)              promote a health-related consumer product to include a clear disclosure that the
+                                                                                            person was generated with AI.
+                                                                                        3
+
+                                                                                                                               © 2026 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                                                         Last Updated: August 3, 2026
+
+
+California   Nonconsensual Intimate Image Clearinghouse     Introduced       Directs the California Department of Justice to establish a Nonconsensual Intimate
+             (SB 1217)                                                       Image Clearinghouse for exploited individuals to submit a request for the removal of
+                                                                             nonconsensual intimate images, including those digitally altered or generated by AI,
+                                                                             from covered platforms.
+Illinois     Consumer Fraud-AI Deception (HB 3021)          Failed           Prohibits any person from engaging in a commercial transaction or trade practice in
+                                                                             which the consumer is interacting with a chatbot or AI agent that may mislead or
+                                                                             deceive a reasonable consumer to believe they are communicating with a human
+                                                                             representative without notifying the consumer in a clear and conspicuous manner
+                                                                             that the interaction is with an AI system.
+Illinois     Surveillance-Based Price Discrimination Act    Failed           Prohibits the use of surveillance data as part of an automated decision system to
+             (HB 4985)                                                       inform the individualized price assessed to a consumer for goods or services. Creates
+                                                                             a private right of action.
+Illinois     Consumer Artificial Intelligence Notice Act    Failed           Requires clear and conspicuous disclosure to consumers engaging with a
+             (SB 317)                                                        conversational customer service AI system that they are communicating with an
+                                                                             automated system, not a human.
+Illinois     Protection From Surveillance Pricing Act (SB   Failed           Prohibits surveillance pricing, which is defined as setting a customized price for
+             2255)                                                           goods or services based on personal data, and the use of electronic shelf labels.
+Illinois     Consumer Fraud-AI Disclosure (SB 2995)         Failed           Requires clear and conspicuous disclosures for certain uses of AI to communicate
+                                                                             with a consumer or sell goods and services to a consumer. Requires businesses that
+                                                                             use AI to communicate with consumers to provide consumers with the option to
+                                                                             communicate with a human during their ordinary business hours.
+Illinois     Companion AI Protection Act (SB 3262)          Failed           Prohibits an operator from deploying or operating a companion AI product with
+                                                                             certain specified features, including manipulative engagement mechanics and
+                                                                             deceptive misrepresentation, unless specifically configured to do so by an adult.
+                                                                             Requires certain user safeguards, including clear notification that communications
+                                                                             are with a companion AI product. Mandates the development and implementation of
+                                                                             a crisis intervention protocol, biannual audits, and annual reporting to the Attorney
+                                                                             General.
+Illinois     Professional AI Oversight Act (SB 3601)        Failed           Requires any person licensed in an occupation regulated by the Department of
+                                                                             Financial and Professional Regulation to prominently disclose when a person who is
+                                                                             paying for a service provided by the licensee is interacting with AI. Provides that the
+                                                                         4
+
+                                                                                                               © 2026 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                                                             Last Updated: August 3, 2026
+
+
+                                                                                disclosure shall (1) be provided verbally at the start of an oral exchange or
+                                                                                conversation and in writing before a written exchange and (2) notify the person of
+                                                                                the specific purpose of the AI that will be used in the interaction. Provides that it is
+                                                                                an unlawful practice within the meaning of the Consumer Fraud and Deceptive
+                                                                                Business Practices Act for any person to use, prompt, or otherwise cause AI to
+                                                                                interact with a person while engaging in trade and commerce without clearly and
+                                                                                conspicuously disclosing to the person with whom the AI interacts, if asked or
+                                                                                prompted by that person, that the person is interacting with AI and not a human.
+Massachusetts Massachusetts Artificial Intelligence                Failed       Establishes requirements for a clear and conspicuous disclosure to be included on or
+              Disclosure Act (H 81)                                             within each generative AI system used to create audio, video, text, or print AI-
+                                                                                generated content within the commonwealth. Establishes monetary fines for
+                                                                                removing such disclosures from the content.
+Massachusetts An Act requiring consumer notification for           Failed       Establishes that it is an unfair or deceptive act or practice for any person to engage in
+              chatbot systems (S 243)                                           a commercial transaction or trade practice with a consumer in which the consumer is
+                                                                                interacting with an automated bot, including an AI agent, that may mislead or
+                                                                                deceive a reasonable person to believe they are engaging with a human. Establishes
+                                                                                that a person deploying such a bot is not liable if they utilize clear and conspicuous
+                                                                                disclosures informing consumers they are interacting with a computer.
+Massachusetts An Act establishing protections for consumers        Failed       Requires any commercial entity that deploys a chatbot to clearly and conspicuously
+              interacting with artificial intelligence chatbots                 disclose to users that they are interacting with a chatbot. Establishes that interactions
+              (S 264)                                                           with commercially deployed chatbots have the same legal force and effect as
+                                                                                interactions with a person employed by, or acting as an agent of, the commercial
+                                                                                entity. Defines violations of the act as an unfair method of competition or an unfair
+                                                                                or deceptive act or practice.
+New York         Relates to requiring advertisements to disclose   Failed       Requires advertisements, excluding those related to expressive works such as
+                 the use of a synthetic performer (A 606B / S                   television or video games, to disclose the use of synthetic performers created by
+                 1228C)                                                         generative AI. Establishes a $1,000 civil penalty for a first violation and a $5,000
+                                                                                penalty for any subsequent violation.
+New York         New York Artificial Intelligence Consumer         Failed       Regulates the use of high-risk AI decision systems across various industries,
+                 Protection Act (A 768 / S 1962)                                including finance, healthcare, education, insurance, and employment. It seeks to
+                                                                                prevent algorithmic discrimination by requiring developers and deployers to
+                                                                            5
+
+                                                                                                                   © 2026 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                                                     Last Updated: August 3, 2026
+
+
+                                                                         implement comprehensive risk management policies and conduct regular impact
+                                                                         assessments.
+New York   Relates to the use of automated lending          Failed       Requires covered entities that use automated lending decision-making tools to work
+           decision-making tools by banks for the                        with an independent third party to conduct an annual impact assessment and to
+           purposes of making lending decisions. (A                      publish a report summarizing the assessment’s results on their website prior to
+           773C / S 8115C)                                               implementation. Imposes additional reporting and information sharing obligations.
+New York   Requires publishers of books created with the    Failed       Requires publishers of books created wholly or partially with the use of generative
+           use of generative artificial intelligence to                  AI to disclose such use on the cover of the book. Applies to all printed and digital
+           contain a disclosure of such use. (A 1509 / S                 books consisting of text, pictures, audio, puzzles, games or any combination thereof.
+           1815)
+New York   Relates to the use of automated decision tools   Failed       Mandates an annual disparate impact analysis for landlords using automated housing
+           by landlords for making housing decisions. (A                 decision making tools to screen applicants for housing. Requires landlords to notify
+           3125A / S 6471A)                                              applicants at least 24 hours prior to the use of any automated tool and inform the
+                                                                         applicant of the characteristics used in assessment of the applicant and type of data
+                                                                         collected.
+New York   Establishes the crime of aggravated            Failed         Prohibits production or dissemination of material, a picture, image, or deep fake, into
+           harassment by means of electronic or digital                  which the image of a person is digitally incorporated into the image of another for no
+           communication and provides for a private right                other legitimate purpose other than to cause harassment, annoyance or alarm of the
+           of action for the unlawful dissemination or                   person. Creates a private right of action for publication or dissemination of an
+           publication of deep fakes. (A 6293 / S 6278)                  intimate or sexually explicit image or deep fake.
+New York   Protecting Consumers and Jobs From             Failed         Prohibits the use of electronic shelving labels, digital shelf display technology, and
+           Discriminatory Pricing Act (A 9396B / S                       personalized algorithmic pricing in food and drug retail establishments.
+           8616B)
+New York   Establishes the crime of unlawful              Failed         Establishes the crime of unlawful dissemination or publication of a fabricated
+           dissemination or publication of a fabricated                  photographic, videographic, or audio record as a class E felony. Establishes liability
+           photographic, videographic, or audio record.                  when, with the intent to cause harm to the liberty or emotional, social, financial, or
+           (A 1280)                                                      physical welfare of an identifiable person or persons, a person intentionally creates
+                                                                         or causes to be created and disseminates or publishes a fabricated record without
+                                                                         consent. Defines fabricated record as an authentic-appearing record that is
+                                                                         manipulated or entirely artificial, including through the use of AI.
+
+                                                                     6
+
+                                                                                                           © 2026 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                                                       Last Updated: August 3, 2026
+
+
+New York   New York Artificial Intelligence Bill of Rights    Failed       Enacts the New York AI bill of rights to provide residents of the state with rights and
+           (A 3265)                                                        protections to ensure that any system making decisions without human intervention
+                                                                           impacting their lives does so lawfully, properly, and with meaningful oversight.
+                                                                           Enumerates certain rights and protections, including the right to safe and effective
+                                                                           systems; protections against algorithmic discrimination; agency over one’s data; the
+                                                                           right to know when an automated system is being used and to understand how and
+                                                                           why an automated system contributed to an outcome; and the right to opt out of an
+                                                                           automated system and to work with a human instead.
+New York   Prohibits food service establishments from         Failed       Prohibits food service establishments from using a dynamic pricing model, including
+           using a dynamic pricing model in determining                    via AI-enabled pricing adjustments, in determining the prices on its menu. Requires
+           the prices on its menu. (A 3437)                                fixed prices to be published on a food service establishment's menu.
+New York   Right to Your Own Image Act (A 3924)               Failed       Prohibits the use of the name, portrait, picture, likeness, or voice created or altered
+                                                                           by digitization of any living person for advertising or trade, without obtaining their
+                                                                           consent.
+New York   Regulates the use of artificial intelligence in    Failed       Requires landlords who use AI tools for applicant screening to adhere to specific
+           aiding decisions on rental housing and loans.                   requirements, including notifying the applicant of the use of the tool, conducting
+           (A 3930)                                                        annual disparate impact testing, and releasing public summaries of these analyses.
+                                                                           Requires banks to adhere to similar requirements if using AI in automated loan
+                                                                           decision-making, with the difference of sending analysis summaries to the Attorney
+                                                                           General rather than public release. Prohibits using a price algorithm to set rent.
+New York   Relates to use of virtual agents and AI tools in   Failed       Imposes certain requirements on real estate brokers and online housing platforms
+           property searches. (A 9028)                                     that use virtual agents, including conducting an annual disparate impact analysis and
+                                                                           avoiding targeted advertising related to protected characteristics. Requires analysis
+                                                                           results to be submitted to the Attorney General’s office and made publicly available.
+New York   Requires search engines inform users when          Failed       Requires search engines to notify users when displaying AI-generated content.
+           showing information which was generated
+           using artificial intelligence. (A 9091)
+New York   New York Artificial Intelligence Ethics            Failed       Establishes the New York AI Ethics Commission to oversee the ethical use of AI in
+           Commission Act. (S 2487)                                        state agencies and private companies. Prohibits business entities from taking certain
+                                                                           actions using AI systems, including discrimination based on protected
+
+                                                                       7
+
+                                                                                                             © 2026 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                                                                        Last Updated: August 3, 2026
+
+
+                                                                                            characteristics, promotion of disinformation, violation of intellectual property rights,
+                                                                                            and failure to implement reasonable safeguards, resulting in harm or material loss.
+New York          The Barakett Digital Safety Act (S 3990A)           Failed                Establishes the crime of false pretense for knowingly and without consent
+                                                                                            impersonating another person through electronic means, including AI technology,
+                                                                                            for the purposes of harming, intimidating, threatening, or defrauding the other
+                                                                                            person. Establishes civil remedies for victims of harmful digital impersonation.
+New York          Establishes privacy and publicity rights for        Failed                Creates penalties for using likenesses altered or created by AI for commercial gain.
+                  likenesses altered using artificial intelligence.                         Establishes a private right of action for the unlawful dissemination of still or video
+                  (S 8721)                                                                  images generated by AI.
+New York          Relates to digital representations in real estate   Failed                Establishes that using digitally altered or AI-generated images, videos, or virtual
+                  listings. (S 9584)                                                        tours in real estate listings may constitute deceptive, unfair, or abusive acts under
+                                                                                            existing consumer protection law when they materially misrepresent or interfere with
+                                                                                            a reasonable buyer's understanding of a property. Requires clear disclosure when
+                                                                                            images or tours have been materially altered or virtually staged and prohibits the
+                                                                                            addition of non-existent features or the concealment of known defects without
+                                                                                            disclosure. Establishes a baseline accuracy standard for virtual tours, which must
+                                                                                            reflect the real spatial characteristics of a property, and requires that conceptual or
+                                                                                            AI-generated representations be clearly labeled.
+Virginia          Virginia Human Rights Act; equal credit             Failed                Prohibits creditors from using automated decision systems, which includes
+                  opportunities; Virginia Fair Housing Law;                                 computational processes derived from AI systems, to take adverse action against a
+                  nondiscrimination by automated decision                                   credit applicant unless a natural person has reviewed the application and approved
+                  systems. (HB 999)                                                         the creditor’s final action. Empowers the Commission to issue guidance on best
+                                                                                            practices for the use of an automated decision system with respect to credit
+                                                                                            applications.
+
+  II.      Restrictions on Developers and Deployers
+
+State             Legislation                                         Bill Status            Description: Relevant Provisions
+California        Generative artificial intelligence: training        Passed Assembly        Narrows the requirements under existing law that generative AI model developers
+                  data: copyrighted materials. (AB 412)               (5/12/2025)            (a) document any covered materials that the developer knows were used to train the
+                                                                                             generative AI model; and (b) make reasonable efforts to identify and document any
+                                                                                        8
+
+                                                                                                                               © 2026 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                                                        Last Updated: August 3, 2026
+
+
+                                                                              other covered materials that were used to train the generative AI model, such that
+                                                                              developers are only required to document and identify materials the developer
+                                                                              knows were used by the developer to train the model. Reduces the number of years
+                                                                              such documentation must be retained from ten to five and expands the required
+                                                                              response time to requests for information from rights owners from within seven to
+                                                                              thirty days. Exempts models developed and used exclusively for noncommercial
+                                                                              academic or governmental research from the existing law.
+California   Customer service chatbots. (AB 1609)       Passed Assembly       Prohibits an operator of a large private business from representing that any AI,
+                                                        (5/27/2026)           automated customer service system, or customer service chatbot is a human.
+                                                                              Requires the operator to provide a clear and conspicuous disclosure that the
+                                                                              customer service chatbot is artificially generated if it would be misleading to a
+                                                                              reasonable person. Requires operators to connect consumers with human customer
+                                                                              service support and communications within five minutes of such request during
+                                                                              business hours.
+California   Preventing AI User Self Endangerment       Passed Assembly       Requires chatbot operators to adopt and make publicly available their policy
+             (PAUSE) Act (AB 1988)                      (5/21/2026)           governing protocol for identifying and responding to credible crisis expressions.
+                                                                              Mandates a crisis interruption pause be initiated and conversational outputs be
+                                                                              suspended until reviewed by a human moderator if two credible crisis expressions
+                                                                              are detected within 72 hours.
+California   Digital Choice Act (AB 2169)               Introduced            Requires AI model operators to allow a consumer to request a copy of their
+                                                                              personal information, contextual data, and social graph and to respond within five
+                                                                              business days. Requires social media companies to implement a transparent, third-
+                                                                              party-accessible interoperability interface to allow users to share their social graph
+                                                                              to other social media platforms and share their contextual data directly with other
+                                                                              AI models.
+California   Toys: companion chatbots. (SB 867)         Passed Senate         Prohibits, until 2031, the manufacture, sale, exchange, possession with intent to sell
+                                                        (5/28/2026)           or exchange, and exposition or offer for sale or exchange to a retailer a toy, as
+                                                                              defined, that includes a companion chatbot.
+California   California AI Transparency Act (SB 1000)   Passed Senate         Modifies the enacted California AI Transparency Act to delete the user threshold
+                                                        (5/19/2026)           from the definition of “covered provider,” replace the term “AI detection tool” with
+                                                                              “disclosure verification tool,” delete the requirement of a covered provider to offer
+                                                                          9
+
+                                                                                                               © 2026 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                                                                Last Updated: August 3, 2026
+
+
+                                                                                      the user the option to include a manifest disclosure in content, and require a
+                                                                                      covered provider to include in the latent disclosure whether the content is generated
+                                                                                      or modified by AI. Exempts products, services, and applications primarily
+                                                                                      marketed to and intended to assist disabled individuals and designed to prevent
+                                                                                      content generated from being downloaded, stored, or otherwise appropriated.
+California   California AI Transparency Act: system            Passed Assembly
+             provenance data. (AB 2713)                        (5/21/2026)
+Illinois     Artificial Intelligence Public Safety and Child   Failed                 Requires frontier AI model developers and large chatbot providers to write,
+             Protection Transparency Act (HB 4705 / SB                                implement, comply with, and clearly and conspicuously publish on their websites a
+             3261)                                                                    public safety and child protection plan. Provides that the Attorney General shall
+                                                                                      establish a public reporting mechanism to be used by a large frontier developer, a
+                                                                                      large chatbot provider, or a member of the public to report AI model or chatbot
+                                                                                      safety incidents. Sets forth provisions concerning the protection of whistleblowers
+                                                                                      and third-party audits of large frontier developers.
+Illinois     Transparency in Frontier Artificial               Failed                 Requires large frontier AI developers to adopt and publish frontier AI frameworks
+             Intelligence Act / Artificial Intelligence                               addressing catastrophic risk management, transparency, and cybersecurity.
+             Safety Measures Act (HB 4799 / SB 3312)                                  Mandates reporting of critical safety incidents and establishes civil penalties for
+                                                                                      noncompliance. [House version mandates reporting to the Attorney General;
+                                                                                      Senate version mandates reporting to the Illinois Emergency Management Agency
+                                                                                      and Office of Homeland Security.] Directs the Department of Innovation and
+                                                                                      Technology to review and recommend updates to definitions and standards.
+                                                                                      Establishes a consortium to develop ILCompute, a public cloud computing
+                                                                                      resource to advance the development and deployment of safe, ethical, equitable,
+                                                                                      and sustainable AI.
+Illinois     Artificial Intelligence Safety and Security       Failed                 Requires developers to produce, implement, and conspicuously publish a safety
+             Protocol Act (HB 3506)                                                   and security protocol and produce and conspicuously publish a risk assessment at
+                                                                                      least every 90 days. Requires developers to be audited by a reputable third-party at
+                                                                                      least once a year for compliance with their protocol.
+Illinois     Provenance Data Requirements Act (HB              Failed                 Requires entities that develop publicly available generative AI tools to apply
+             4711)                                                                    provenance data, either directly or through the use of third-party technology, to
+                                                                                      synthetic content wholly generated by the provider's generative AI tool. Requires
+                                                                                 10
+
+                                                                                                                      © 2026 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                                                              Last Updated: August 3, 2026
+
+
+                                                                                   tool providers to make available provenance application tools to enable users to
+                                                                                   apply provenance data to content that has been significantly modified to include
+                                                                                   synthetic content.
+Illinois   Fraud-Intelligence (HB 4988)                  Failed                    Requires the owner, licensee, or operator of a generative AI system to
+                                                                                   conspicuously display a warning on the system's user interface notifying users of
+                                                                                   the limitations of generative AI systems.
+Illinois   Artificial Intelligence Safety Measures Act   Signed by Governor        Requires large frontier AI developers to adopt, publish, and annually review
+           (SB 315)                                      (7/6/2026)                frontier AI frameworks addressing catastrophic risk management, internal-use
+                                                                                   risks, mitigations, governance, third-party evaluations, and cybersecurity. Requires
+                                                                                   developers to publish transparency reports before deploying new or substantially
+                                                                                   modified frontier models. Mandates developers undergo annual independent third-
+                                                                                   party audits and report critical safety incidents pertaining to frontier models within
+                                                                                   72 hours. Directs the Illinois Emergency Management Agency and Office of
+                                                                                   Homeland Security, in consultation with the Attorney General, to administer
+                                                                                   reporting mechanisms, issue guidance, and prepare annual reports. Prohibits the
+                                                                                   development, deployment, or operation of a frontier model without filing a
+                                                                                   disclosure statement with the Agency and paying a fee. Establishes whistleblower
+                                                                                   protections for covered employees. Establishes civil penalties for noncompliance.
+Illinois   AI Data Privacy Act (SB 3180)                 Failed                    Prohibits a deployer from training an AI system on a user's data and retaining the
+                                                                                   training data indefinitely without the user’s express written consent. Provides for a
+                                                                                   private right of action.
+Illinois   AI Provenance Data Act (SB 3263)              Failed                    Requires covered AI tool providers to make available, at no cost, a provenance
+                                                                                   label reading tool, and to include a provenance label in any image, video, or audio
+                                                                                   content instance created by its AI. Sets forth requirements for large online
+                                                                                   platforms, capture device manufacturers, and third-party licensees and hosting
+                                                                                   platforms concerning provenance labels.
+Illinois   Chatbot Response Liability Act (SB 3368)      Failed                    Provides that a proprietor of a chatbot used as an alternative to a human
+                                                                                   representative or that provides any substantive response, information, advice, or
+                                                                                   action may not disclaim liability if the chatbot provides materially misleading,
+                                                                                   incorrect, contradictory, or harmful information that results in financial loss, bodily
+                                                                                   harm, or other demonstrable harm to the covered user or any third-party. Provides
+                                                                              11
+
+                                                                                                                    © 2026 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                                                   Last Updated: August 3, 2026
+
+
+                                                                        that a proprietor of a chatbot shall provide clear, conspicuous, and explicit notice to
+                                                                        covered users that the covered users are interacting with an AI chatbot program,
+                                                                        rather than a human. Sets forth requirements for proprietors of companion chatbots,
+                                                                        including parental consent for the use of companion chatbots by minors. Requires
+                                                                        the Attorney General to adopt rules to determine commercially reasonable and
+                                                                        technically feasible methods for compliance by companion chatbot proprietors.
+                                                                        “Proprietor” is defined to exclude third-party developers that license their
+                                                                        technology.
+Illinois   AI Companion Model Safety Act (SB 3384)        Failed        Prohibits an operator from operating or providing an AI companion to a user unless
+                                                                        it contains a protocol to take reasonable efforts to detect and address suicidal
+                                                                        ideation or expressions of self-harm by a user to the companion. Requires the
+                                                                        operator to provide a clear and conspicuous notification to the user that they are not
+                                                                        communicating with a human at specified times.
+Illinois   AI Safety Act (SB 3444)                        Failed        Provides that a frontier AI model developer shall not be held liable for critical
+                                                                        harms caused by the model if the developer did not intentionally or recklessly
+                                                                        cause the critical harms and the developer publishes a safety and security protocol
+                                                                        and transparency report on its website. Sets forth requirements for safety and
+                                                                        security protocols and transparency reports. Provides that a developer shall be
+                                                                        deemed to have complied with these requirements if the developer: (1) agrees to be
+                                                                        bound by safety and security requirements adopted by the European Union; or (2)
+                                                                        enters into an agreement with an agency of the federal government that satisfies
+                                                                        specified requirements. Provides that the Act shall no longer apply if the federal
+                                                                        government enacts a law or adopts regulations that establish overlapping
+                                                                        requirements for developers of frontier models.
+Illinois   AI Intelligence Design Requirements Act / AI   Failed        Sets forth parameters for what must be established by the plaintiff for product
+           Product Liability Act (SB 3502 / SB 3590)                    liability actions brought against an AI system developer for defective design,
+                                                                        failure to contain adequate instructions or warnings, and failure to conform to an
+                                                                        express warranty. Provides that a deployer of an AI system shall be found liable as
+                                                                        a developer for harm caused by a product if: (1) the deployer makes material and
+                                                                        substantial changes to the product or (2) the deployer intentionally misuses the
+
+                                                                   12
+
+                                                                                                         © 2026 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                                                          Last Updated: August 3, 2026
+
+
+                                                                                 product contrary to the express warranty and that use was the proximate cause of
+                                                                                 harm to the plaintiff.
+Massachusetts An Act regulating provenance regarding        Failed               Requires generative AI tool providers to apply provenance data, either directly or
+              artificial intelligence (H 90)                                     through third-party technology, to wholly-generated synthetic content generated by
+                                                                                 the provider's generative AI tool. Requires tool providers to make available
+                                                                                 provenance application tools to enable users to apply provenance data to content
+                                                                                 that has been modified to include synthetic content.
+Massachusetts An Act protecting consumers in interactions   Failed               Establishes a high-risk AI system developer duty to use reasonable care to protect
+              with artificial intelligence systems (H 97)                        consumers from any known or reasonably foreseeable risks of algorithmic
+                                                                                 discrimination arising from the intended and contracted uses of the system.
+                                                                                 Establishes a similar duty for deployers of high-risk AI systems and requires
+                                                                                 deployers to implement a risk management policy and complete an impact
+                                                                                 assessment annually. Requires the developers of high-risk AI systems to disclose
+                                                                                 certain documentation to deployers, the public, and the Attorney General. Requires
+                                                                                 any deployer who uses a high-risk AI system to make, or is a substantial factor in
+                                                                                 making, a consequential decision concerning a consumer to notify the consumer in
+                                                                                 advance of the decision and provide the consumer with certain information,
+                                                                                 including additional information if an adverse decision is made. Requires deployers
+                                                                                 to report algorithmic discrimination to the Attorney General within 90 days of
+                                                                                 discovery. Requires any deployer or other developer that makes available an AI
+                                                                                 system for consumer interaction to disclose to consumers that they are interacting
+                                                                                 with AI when it is not obvious to a reasonable person.
+Massachusetts An Act Reducing Emissions from Artificial     Failed               Prohibits a covered entity from operating a search engine that automatically returns
+              Intelligence (H 495)                                               results using AI without affirmative consent from individual users. Directs the
+                                                                                 Executive Office of Technology Services and Security to recognize acceptable
+                                                                                 centralized mechanisms for individuals to exercise affirmative consent.
+Massachusetts An Act relative to economic development in    Passed House         Includes the Transparency in Frontier AI Act. Requires large frontier developers to
+              the Commonwealth (H 5576 / S 3228)            (7/8/2026)           publish a frontier AI framework that explains how the developer addresses national
+                                                            Passed Senate        standards, catastrophic risk assessment and mitigation, third party assessments, and
+                                                            (7/24/2026)          critical safety procedures. Requires large frontier developers to annually review,
+                                                                                 and if necessary, update, their frontier AI framework. Mandates developers publish
+                                                                            13
+
+                                                                                                                 © 2026 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                                                     Last Updated: August 3, 2026
+
+
+                                                                         a transparency report before or concurrently with deploying a new or substantially
+                                                                         modified frontier model. Requires large frontier developers to publish catastrophic
+                                                                         risk assessment reports and update them every 180 days. Requires frontier
+                                                                         developers to report any critical safety incident within 15 days of discovery or
+                                                                         within 24 hours if the incident poses imminent risk of death or serious injury.
+                                                                         Directs the Attorney General to promulgate regulations designating federal laws or
+                                                                         regulation that impose standards or requirements for critical safety incident
+                                                                         reporting that are substantially equivalent to, or stricter than, those required in this
+                                                                         act, and allows frontier developers to comply with the designated federal laws or
+                                                                         regulations to be deemed in compliance with the act. Requires annual third-party
+                                                                         auditing of large frontier developers’ compliance with their frontier framework and
+                                                                         transparency requirements. Requires third-party evaluation of frontier models
+                                                                         within 30 days after publishing each catastrophic risk assessment report. Directs
+                                                                         the Attorney General to produce an independent evaluation ecosystem plan and
+                                                                         establish a critical safety incident reporting mechanism. Establishes civil penalties
+                                                                         for violations by large frontier developers. Directs large frontier developers to
+                                                                         establish protections for covered employees who make relevant disclosures and
+                                                                         establishes a right to civil action for covered employees.
+
+                                                                         Includes a section titled Use of chatbots by commercial entities. Requires any
+                                                                         commercial entity deploying a chatbot to clearly and conspicuously disclose to
+                                                                         users they are interacting with a chatbot. Deems violations as an unfair method of
+                                                                         competition or an unfair or deceptive act or practice in the conduct of trade or
+                                                                         commerce.
+New York   Relates to liability for misleading, incorrect, Failed        Establishes liability for chatbot proprietors regarding the accuracy of information
+           contradictory or harmful information provided                 provided to users. Requires disclosure to users that they are interacting with an AI
+           to a user by a chatbot. (A 222A / S 5668)                     chatbot.
+New York   Requires the collection of oaths of responsible Failed        Requires operators of generative or surveillance advanced AI systems to collect
+           use from users of certain generative or                       oaths from users affirming their responsible use of these services.
+           surveillance advanced artificial intelligence
+           systems. (A 1342)
+                                                                    14
+
+                                                                                                           © 2026 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                                                             Last Updated: August 3, 2026
+
+
+New York   Advanced Artificial Intelligence Licensing     Failed                    Establishes regulations for advanced AI systems, including registration and
+           Act (A 3356)                                                             licensing of high-risk advanced AI systems, establishes the Advanced AI Ethical
+                                                                                    Code of Conduct, and prohibits the development and operation of certain AI
+                                                                                    systems.
+New York   Requires warnings on generative artificial     Passed Senate             Requires the owner, licensee, or operator of a generative AI system to
+           intelligence systems. (A 3411B / S 934A)       (3/9/2026)                conspicuously display a warning on the system's user interface that is reasonably
+                                                          Passed Assembly           calculated to consistently apprise the user that the outputs of the generative AI
+                                                          (1/28/2026)               system may be inaccurate.
+New York   Responsible AI Safety and Education Act        Signed by Governor        Establishes transparency requirements for frontier model training and use,
+           (RAISE) Act (A 6453B / S 6953B)                (12/19/2025)              including the implementation and publication of a written safety and security
+                                                                                    protocol before deployment. Requires developers to implement appropriate
+                                                                                    safeguards to prevent unreasonable risk of critical harm, including an annual
+                                                                                    review of the safety and security protocol and independent audits. Requires
+                                                                                    disclosure of safety incidents to the Division of Homeland Security and Emergency
+                                                                                    Services.
+New York   Stop Deep-Fakes Act (A 6540E / S 6954B)        Passed Assembly           Requires providers of synthetic content creation systems to include provenance
+                                                          (6/4/2026)                data with any synthetic content they produce or modify.
+                                                          Passed Senate
+                                                          (6/3/2026)
+New York   Imposes liability for damages caused by a      Failed                    Prohibits a chatbot from giving substantive responses, information, or advice or
+           chatbot impersonating certain licensed                                   from taking any action which, if taken by a natural person, would constitute
+           professionals. (A 6545C / S 7263A)                                       criminal unauthorized practice or use of a professional title in relation to
+                                                                                    professions whose licensure is governed by the New York education law or the
+                                                                                    judiciary law. Requires chatbot providers to provide notice to users that they are
+                                                                                    interacting with an AI chatbot program.
+New York   Artificial Intelligence Training Data          Passed Assembly           Requires developers of generative AI models or services to post on the developer's
+           Transparency Act (A 6578B / S 6955A)           (5/6/2026)                website information regarding the data used by the developer to train the generative
+                                                          Passed Senate             AI model or service, including a high-level summary of the datasets used in the
+                                                          (6/4/2026)                development of such system or service.
+New York   Relates to artificial intelligence companion   Failed                    Prohibits the provision of an AI companion to a user unless such AI companion
+           models. (A 6767)                                                         contains a protocol for addressing possible suicidal ideation or self-harm, possible
+                                                                               15
+
+                                                                                                                    © 2026 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                                                                Last Updated: August 3, 2026
+
+
+                                                                                     physical harm to others, and possible financial harm to others expressed by a user.
+                                                                                     Requires certain notifications to certain users regarding crisis service providers and
+                                                                                     the non-human nature of such companion models.
+New York   Understanding Artificial Intelligence           Failed                    Provides that developers of covered models are strictly liable for certain injuries.
+           Responsibility Act (A 8833)
+New York   New York Artificial Intelligence Act (A         Failed                    Regulates the development and use of certain AI systems to prevent algorithmic
+           8884A / S 1169B)                                                          discrimination. Requires independent audits of high-risk AI systems and provides
+                                                                                     for enforcement by the Attorney General and a private right of action.
+New York   Relates to transparency and safety              Signed by Governor        Requires large frontier model developers to write, implement, comply with, and
+           requirements for developers of artificial       (3/27/2026)               clearly and conspicuously publish on their websites a frontier AI framework that
+           intelligence models. (A 9449 / S 8828)                                    applies to the developer's frontier models and describes in detail how the developer
+                                                                                     handles certain specified topics, including incorporation of standards and risk
+                                                                                     mitigation efforts. Requires the establishment of an office for oversight of AI
+                                                                                     model developer transparency and reporting, including the establishment of a
+                                                                                     critical safety incident reporting mechanism for frontier developers.
+New York   Prohibits algorithmic wage-setting. (A 9641 /   Failed                    Prohibits employers from engaging in algorithmic wage-setting by using an
+           S 8872)                                                                   automated decision system, which is defined as a system, software, or process
+                                                                                     derived from machine learning, statistics, or other data processing or AI
+                                                                                     techniques, to inform individualized wages based on surveillance data of the
+                                                                                     individual.
+New York   Prohibits artificial intelligence chatbots from  Passed Assembly          Prohibits AI chatbots from using features which are considered unsafe for minors,
+           using features which are considered unsafe for (6/5/2026)                 defined as outputs that imitate companionship or personhood or promote dangerous
+           minors. (A 10379C / S 9051B)                     Passed Senate            behaviors. Establishes certain exceptions related to customer service, research, or
+                                                            (6/4/2026)               business.
+New York   Relates to a prohibition on chatbot toys. (A     Passed Assembly          Prohibits the manufacture, exchange, distribution, and sale of chatbot toys.
+           11144B / S 9408A)                                (6/2/2026)
+                                                            Passed Senate
+                                                            (6/1/2026)
+New York   Relates to the use of artificial intelligence in Failed                   Requires persons, firms, partnerships, associations, and corporations, and their
+           customer services. (S 8874)                                               employees and agents, to disclose the use of AI to influence customer interaction,
+
+                                                                                16
+
+                                                                                                                      © 2026 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                                                     Last Updated: August 3, 2026
+
+
+                                                                         including automated customer support, ad targeting, product eligibility decisions,
+                                                                         and hiring tools.
+New York   Relates to third-party verification of          Failed        Requires large frontier AI developers to draft transparency safety frameworks and
+           compliance with transparency and safety                       work with an independent third-party verifier annually to assess framework
+           requirements for developers of artificial                     compliance. Requires verifiers to publish a summary of their findings, which
+           intelligence models. (S 10373)                                developers must clearly and conspicuously provide a link to on their websites.
+                                                                         Directs the Office of Digital Innovation, Governance, Integrity and Trust to adopt
+                                                                         regulations to officially accredit third-party verifiers to ensure technical and ethical
+                                                                         standards.
+
+New York   Relates to minimum standards for large          Failed        Requires the Office of Digital Innovation, Governance, Integrity and Trust (DIGIT)
+           frontier developer frontier AI frameworks. (S                 to adopt regulations by July 1, 2028 requiring large developers’ frontier AI
+           10456)                                                        frameworks to meet minimum standards. Directs DIGIT to solicit feedback on the
+                                                                         draft regulations and to annually review the regulations.
+Virginia   Professions and occupations; impersonation      Failed        Prohibits AI deployers from making publicly available any AI system that provides
+           of certain licensed professionals by chatbot;                 substantive responses, information, or advice that, if taken by a natural person,
+           notice; civil liability. (HB 669)                             would constitute the unlawful or unlicensed practice of certain professions or
+                                                                         occupations requiring licensure. Requires AI system deployers to provide clear,
+                                                                         conspicuous, and explicit notices to users that they are interacting with an AI
+                                                                         system.
+Virginia   Fostering Access, Innovation, and               Failed        Provides that base AI model developers have a duty to clearly and conspicuously
+           Responsibility (FAIR) in Artificial                           disclose certain information about the model. Prohibits use of such disclosure to a
+           Intelligence Act (HB 713 / SB 365)                            user as a defense to liability for any harm caused to a plaintiff. Establishes a FAIR
+                                                                         AI Enforcement Fund to support state agency enforcement of AI system misuse,
+                                                                         bias, and workforce disruption. Provides that in any criminal or civil action,
+                                                                         developers of AI systems may not use as a defense that the AI autonomously
+                                                                         harmed the plaintiff and AI deployers may not use as a defense that the harm was
+                                                                         caused by the AI system.
+Virginia   Artificial Intelligence Chatbots and Minors     Failed        Requires deployers to ensure that chatbots operated or distributed by the deployer
+           Act (HB 758)                                                  do not make human-like features available to minors to use, interact with,
+                                                                         purchase, or converse with. Requires age verification systems to ensure such
+                                                                    17
+
+                                                                                                           © 2026 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                                                                         Last Updated: August 3, 2026
+
+
+                                                                                              chatbots and chatbots that function as social AI companions are not available to
+                                                                                              minors. Limits information that a deployer can collect to information that is
+                                                                                              adequate, relevant, and necessary, as defined.
+Virginia         Joint Commission on Technology and              Signed by Governor           Directs the Joint Commission on Technology and Science to evaluate the
+                 Science; artificial intelligence, independent   (4/8/2026)                   feasibility and impact of developing a framework for any person or entity seeking
+                 verification organizations. (HB 797 / SB 384)                                to act as an independent verification organization (IVO) that assesses AI models or
+                                                                                              applications.
+Virginia         Artificial Intelligence Chatbots and Minors     Failed                       Requires operators of chatbots with a minimum 500,000 monthly active users
+                 Act (SB 796)                                                                 globally to (1) implement systems and processes related to mental health risks in
+                                                                                              chatbot interactions, (2) make reasonable efforts to notify appropriate emergency
+                                                                                              services or law enforcement if it obtains knowledge that a user faces an imminent
+                                                                                              risk of death or serious physical injury, and (3) submit a report to the Attorney
+                                                                                              General after obtaining knowledge of certain covered incidents connected to its
+                                                                                              chatbots. Requires operators to disclose the non-human nature of the chatbot to
+                                                                                              users at certain intervals. Provides for individual civil action for any person harmed
+                                                                                              by a violation.
+
+  III.     Employment and Internal Company Use
+
+State            Bill Number                                      Bill Status              Relevant Provisions
+California       Workplace surveillance tools (AB 1883)           Passed Assembly          Prohibits employers from using certain workplace surveillance tools, including AI
+                                                                  (5/27/2026)              systems that make inferences or predictions based on a worker’s emotional, facial, gait,
+                                                                                           neural data, protected status, or protected activity under state or federal law.
+California       Workplace artificial intelligence tools (AB      Introduced               Requires employers to provide any worker likely to be directly or indirectly affected by
+                 1898)                                                                     the tool’s use with a written notice that a workplace AI tool was used to assist the
+                                                                                           employer in making employment-related decisions or to surveil workers in the
+                                                                                           workplace. Requires such disclosure to the exclusive bargaining representatives of
+                                                                                           certain employees. Requires signed confirmation of receipt and understanding of such
+                                                                                           notice. Requires employers to include a description of whether any jobs or job tasks
+                                                                                           will be replaced when adding an AI tool to the workplace.
+
+                                                                                      18
+
+                                                                                                                               © 2026 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                                                                 Last Updated: August 3, 2026
+
+
+California   Worker data: prohibitions: artificial              Introduced           Prohibits an employer from collecting or using a worker’s personal information to train
+             intelligence. (AB 2027)                                                 an AI system to replicate, automate, or replace a worker’s job, or from deploying such a
+                                                                                     system. Prohibits employers from providing a worker’s personal information to third-
+                                                                                     parties to train such a system.
+California   Employment: automated decision systems. (SB        Vetoed by            Restricts and creates standards of use for AI tools in state or local government hiring,
+             7)                                                 Governor             including notice to employees of automated decision systems used to decide
+                                                                                     employment matters.
+California   High-risk artificial intelligence systems: duty to Failed               Imposes a duty on covered deployers, defined as businesses that deploy high-risk AI
+             protect personal information. (SB 468)                                  systems that process personal information, to protect personal information held by the
+                                                                                     covered deployer, subject to certain requirements. Requires covered deployers whose
+                                                                                     high-risk AI systems process personal information to develop, implement, and maintain
+                                                                                     a comprehensive information security program, appropriate for the covered deployer’s
+                                                                                     size, scope, and type of business.
+California   Employment: automated decision systems (SB         Passed Senate        Prohibits an employer from using an automated decision system (ADS), such as those
+             947)                                               (5/19/2026)          derived from AI, in ways that violate labor laws, infer protected worker statuses,
+                                                                                     conduct predictive behavior analysis, or take adverse actions against workers exercising
+                                                                                     their legal rights. Prohibits an employer from relying solely on an ADS when making a
+                                                                                     disciplinary or termination decision. Requires employers to provide, upon employee
+                                                                                     request, a copy of the most recent 12 months of the worker’s data primarily used by an
+                                                                                     ADS to make such a decision. Requires an employer that primarily relied upon an ADS
+                                                                                     to assist in making a disciplinary or termination decision to direct a human reviewer to
+                                                                                     conduct an independent investigation to corroborate the decision and to provide the
+                                                                                     affected worker with a written post-use notice at the time they are informed of the
+                                                                                     decision.
+California   Utility Infrastructure AI Safety, Oversight, and   Failed               Requires the Public Utilities Commission to adopt standards for an electrical or gas
+             Workforce Protection Act (SB 1011)                                      corporation’s use of AI models. Provides that standards must establish disclosure
+                                                                                     requirements of model types and uses, identification of employee effects by planned AI
+                                                                                     use, plans to prevent impacts on utility safety and affordability, and requirements for
+                                                                                     human review. Directs the Commission to monitor and enforce companies’ compliance
+                                                                                     with these standards.
+
+                                                                                19
+
+                                                                                                                        © 2026 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                                                        Last Updated: August 3, 2026
+
+
+Illinois         Meaningful Human Control of AI Act (HB       Failed        Prohibits a public employer from using or authorizing the purchase of any service or
+                 4980)                                                      system using any automated decision-making system, including software using AI
+                                                                            techniques, without meaningful and continuing human review, when performing any
+                                                                            function (a) related to the administration of any public assistance program; (b) that
+                                                                            would adversely impact an employee’s rights, liberties, safety, or welfare; or (c) that
+                                                                            would impact an employee’s legal rights. Prohibits an employer from using such a
+                                                                            system for such functions without providing a notice to any affected employee by the
+                                                                            time a decision is issued, as well as an appeals process and the opportunity for an
+                                                                            alternative review. Entirely prohibits certain employer uses of such systems, including
+                                                                            to make predictions about employee or candidate behavior or in relation to performance
+                                                                            evaluation, hiring, discipline, access to work opportunities, among other actions.
+                                                                            Requires an employer seeking to use or apply an automated decision-making system for
+                                                                            permitted functions to conduct an initial impact assessment and an additional impact
+                                                                            assessment at least once every two years and prior to any material changes to the
+                                                                            system. Provides for anti-retaliation; enforcement by the Department of Labor; and
+                                                                            private rights of action.
+Illinois         Surveillance-Based Wage Discrimination Act   Failed        Prohibits the use of surveillance data as part of an automated decision system to inform
+                 (HB 4987)                                                  the individualized wage paid to an employee.
+Illinois         Warn Act-AI Layoffs (SB 3571)                Failed        Provides that, when required to report the reason for a mass layoff or closing, the
+                                                                            employer shall disclose any AI-related job impacts, including the number of employees
+                                                                            laid off substantially due to the replacement or automation by AI of the functions
+                                                                            performed by the employees. Provides that, if the Department of Commerce and
+                                                                            Economic Opportunity issues any public report disclosing mass layoffs or closings, the
+                                                                            Department shall include the reason in the report, including whether the mass layoff or
+                                                                            closing is substantially due to AI.
+Massachusetts An Act fostering artificial intelligence        Failed        Prohibits employers from using electronic monitoring tools to collect employee
+              responsibility (H 77)                                         information barring certain purposes and requires employers to provide prior written
+                                                                            notice to and receive written consent from all candidates and employees subject to
+                                                                            electronic monitoring, including regarding the data’s use in an automated employment
+                                                                            decision tool. Prohibits employer use of an automated employment decision tool for an
+                                                                            employment decision, alone or in conjunction with electronic monitoring, unless such
+                                                                       20
+
+                                                                                                               © 2026 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                                                          Last Updated: August 3, 2026
+
+
+                                                                          tool has been the subject of an impact assessment. Requires any employer that uses an
+                                                                          automated employment decision tool to evaluate an employee or candidate to notify
+                                                                          employees and candidates subject to the tool no less than ten business days before such
+                                                                          use. Prohibits certain employer uses of an automated decision tool, including making
+                                                                          predictions about an employee or candidate’s behavior, beliefs, intentions, personality,
+                                                                          emotional state, or other characteristics or behaviors. Prohibits an employer from
+                                                                          relying primarily on output from an automated decision tool when making hiring,
+                                                                          promotion, termination, disciplinary, or compensation decisions. Requires an employer
+                                                                          to establish meaningful human oversight of decisions based in whole or in part on the
+                                                                          output of automated employment decision tools or data collected through electronic
+                                                                          monitoring. Establishes anti-retaliation protections for impacted workers and provides
+                                                                          for civil claims for adverse employment action taken based on prohibited conduct.
+New York   Requires employers and employment agencies       Failed        Requires employers and employment agencies to notify candidates for employment if
+           to notify candidates for employment if machine                 machine learning technology is used to make hiring decisions prior to the use of such
+           learning technology is used to make hiring                     technology.
+           decisions. (A 1952)
+New York   Robot Tax Act (A 3719)                           Failed        Introduces a tax surcharge on corporations that replace workers with technology.
+New York   Establishes criteria for the sale of automated   Failed        Establishes criteria for the use of automated employment decision tools, including an
+           employment decision tools. (A 3914)                            annual disparate impact analysis and summary report sent to the Department of Labor.
+New York   New York Workforce Stabilization Act (A          Failed        Requires certain businesses to conduct AI impact assessments and submit assessments
+           5429A / S 1854A)                                               to the Department of Labor prior to the implementation of AI tools. Establishes a
+                                                                          surcharge on corporations that use AI or data mining or have greater than a threshold
+                                                                          number of employees displaced by AI of a rate of 2% of the corporation's business
+                                                                          income base; defines data mining.
+New York   Excludes a production using artificial           Failed        Excludes a production using AI or autonomous vehicles in a manner which results in
+           intelligence or autonomous vehicles in a                       the displacement of employees whose salaries are qualified expenses from the
+           manner which results in the displacement of                    definition of qualified film for the purposes of the empire state film production credit.
+           employees from the definition of qualified film.
+           (A 6180 / S 6751)
+New York   Relates to requiring responsible capability      Failed        Requires certain entities that utilize AI to establish and file responsible capability
+           scaling policies. (A 6656)                                     scaling policies with the chief information officer.
+                                                                     21
+
+                                                                                                               © 2026 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                                                                  Last Updated: August 3, 2026
+
+
+New York   Requires artificial intelligence technology used    Failed                 Requires AI systems intended for use in certain professions to be designed and trained
+           in professional fields to be developed and                                 with the substantive input of credentialed professionals from the relevant field.
+           maintained in consultation with experts in such
+           fields. (A 9219)
+New York   Automation Displacement Protection Act (A           Failed                 Requires any business enterprise that employs 50 or more full-time employees in the
+           9533A / S 8589C)                                                           state provide no fewer than 90 days advance written notice to both affected employees
+                                                                                      and certain government officials prior to any technological displacement affecting 25 or
+                                                                                      more employees, or 25% of the workforce, whichever is less. Provides each employee
+                                                                                      affected by a technological displacement shall be entitled to a transition employment
+                                                                                      period of 90 days from the date of notice provided. Provides any covered employer that
+                                                                                      fails to comply with the notice or transition requirements shall be ineligible for state
+                                                                                      grants, loans, or tax incentives for 5 years following such violation.
+New York   Requires covered businesses to annually report      Passed Assembly        Requires businesses with over 100 employees or that are publicly traded to submit an
+           to the department of labor regarding the impact     (6/3/2026)             annual report to the Department of Labor detailing the impact of AI on hiring and
+           of artificial intelligence on hiring and business   Passed Senate          business practices.
+           practices for the previous year. (A 9581B / S       (6/4/2026)
+           8706B)
+New York   Prohibits the use of automated systems to make      Failed                 Prohibits the use of automated systems, defined to include AI systems, to make
+           employment decisions unless there is a                                     employment decisions without meaningful human review prior to the final decision.
+           meaningful human review of the output of such                              Requires employers that use automated systems in hiring to notify applicants of such
+           automated system prior to the final employment                             use. Permits an applicant who has received an adverse employment decision to request
+           decision. (A 9601)                                                         a human-conducted review of the decision.
+New York   Food Delivery Worker Safety and Fair                Failed                 Prohibits food delivery platforms from utilizing or deploying any algorithmic
+           Algorithms Act (A 10118 / S 9089)                                          management system, defined to include AI-based systems, that requires or incentivizes
+                                                                                      delivery workers to complete deliveries within a fixed or rigid time window that cannot
+                                                                                      reasonably be met while complying with all applicable traffic laws and safety
+                                                                                      regulations. Requires food delivery platforms provide delivery workers with clear,
+                                                                                      written notice of the factors considered by any algorithmic management system in
+                                                                                      assigning deliveries and evaluating performance. Provides delivery workers with the
+                                                                                      right to request a written explanation of any suspension, deactivation, or significant
+                                                                                      limitation of access to work imposed through an algorithmic management system.
+                                                                                 22
+
+                                                                                                                         © 2026 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                                                         Last Updated: August 3, 2026
+
+
+New York   Relates to restricting the use of electronic       Failed        Restricts employers’ use of electronic monitoring tools unless certain requirements are
+           monitoring and automated employment                              met. Requires employers to provide notices to employees regarding electronic
+           decision tools. (S 185A)                                         monitoring and allow employees to review and request corrections to their data.
+                                                                            Requires impact assessments for employers’ automated decision tools and notification
+                                                                            to employees and candidates in advance of any employment decisions based on
+                                                                            electronic monitoring data.
+New York   Establishes criteria for the sale of automated     Failed        Establishes criteria for the use of automated employment decision tools, including an
+           employment decision tools. (S 4394A)                             annual impact assessment. Establishes requirements for the developers of automated
+                                                                            decision tools, including providing deployers of such tools with a statement outlining
+                                                                            the known limitations of the tool and the type of data used to train the tool and
+                                                                            conducting an annual impact assessment of any tool made available for sale or
+                                                                            licensing. Requires both deployers and developers to establish an AI governance
+                                                                            program.
+New York   Prohibits transcripts being made from video        Failed        Prohibits transcripts being made from video conference meetings by AI without
+           conference meetings by artificial intelligence                   conspicuous disclosure during such meeting that its proceedings may be transcribed by
+           without conspicuous disclosure during such                       AI.
+           meeting. (S 8459)
+New York   Artificial Intelligence Workforce Impact           Failed        Modifies existing layoff notice requirements under the Worker Adjustment and
+           Transparency Act (S 8928)                                        Retraining Notification (WARN) Act to include whether employment losses are the
+                                                                            result, in whole or in part, of AI systems, automation technologies, or other machine-
+                                                                            based processes.
+New York   An act to amend the executive law, in relation     Failed        Prohibits employers from engaging in discrimination on the basis of a protected class
+           to prohibiting employers from engaging in                        when using AI for recruitment, hiring, promotion, renewal of employment, selection for
+           discrimination on the basis of a protected class                 training or apprenticeship, discharge, discipline, tenure, or establishment of the terms,
+           when using artificial intelligence in certain                    privileges, or conditions of employment. Requires employers to notify employees of the
+           employment practices. (S 9028)                                   use of AI for such practices.
+
+
+
+
+                                                                       23
+
+                                                                                                                © 2026 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                                                                           Last Updated: August 3, 2026
+
+
+  IV.      Healthcare and Insurance
+
+State            Bill Number                                          Bill Status            Relevant Provisions
+California       Health care coverage: prior authorization. (AB       Vetoed by              Restricts and creates standards for AI used by specialized health care service plans and
+                 512)                                                 Governor               specialized health insurers.
+California       Health care coverage reporting. (AB 682)             Vetoed by              Requires health insurers to report annually specified information for each month,
+                                                                      Governor               including the number of claims denied that at any point were processed, adjudicated, or
+                                                                                             reviewed with AI or other predictive algorithms.
+California       Health care services: artificial intelligence. (AB   Passed Assembly        Prohibits a health facility, clinic, physician’s office, or office of a group practice from
+                 1979)                                                (5/21/2026)            using or deploying a tool, system, or device that includes AI to replace the use of
+                                                                                             professional judgment by a licensed healthcare professional or to direct, guide,
+                                                                                             supervise, or instruct unlicensed personnel in performing any function that requires a
+                                                                                             professional license.
+California       Downcoding medical claims. (AB 2431)                 Introduced             Prohibits a healthcare service plan or an insurer issuing group or individual policies of
+                                                                                             health insurance from using an automated process, system, or tool to downcode a claim.
+                                                                                             Establishes requirements for and limitations of downcoding decisions, and, if a claim is
+                                                                                             downcoded, would require a plan or insurer to provide a billing provider with specified
+                                                                                             information and a clear and accessible process for disputing downcoded claims.
+California       Health care services: artificial intelligence (AB    Passed Assembly        Requires a health facility, clinic, physician’s office, or office of a group practice that
+                 2575)                                                (5/27/2026)            uses or deploys an AI or clinical decision support system for patient care to disclose
+                                                                                             specified information to any licensed healthcare professional or other person using the
+                                                                                             system or viewing its outputs. Requires the disclosure to include a notice that a worker
+                                                                                             providing direct patient care is permitted to override the output of a covered tool if, in
+                                                                                             the judgment of the worker acting in their scope of practice, an override is appropriate
+                                                                                             for the patient, or as necessary to comply with applicable law, including civil rights
+                                                                                             law.
+Illinois         Transparency in Downcoding Act (HB 4735)             Failed                 Prohibits a health insurance issuer from using an automated process, system, or tool to
+                                                                                             downcode a claim.
+                                                                                             Does not apply to employee or employer self-insured health benefit plans under the
+                                                                                             federal Employee Retirement Income Security Act of 1974.
+
+                                                                                        24
+
+                                                                                                                                 © 2026 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                                                                Last Updated: August 3, 2026
+
+
+Illinois        AI-Prescribing Medication (SB 2993)         Failed               Prohibits individuals licensed under the Medical Practice Act from allowing AI to
+                                                                                 prescribe medication if said individuals do not maintain full control and responsibility
+                                                                                 for the prescription.
+Illinois        No AI in Health Care Pricing (SB 3027)      Failed               Prohibits hospitals from using AI to set or influence healthcare pricing or billing.
+Illinois        Transparency in Downcoding Act (SB 3114)    Passed Senate        Prohibits a health insurance issuer from using an automated process, system, or tool to
+                                                            (5/27/2026)          downcode a claim.
+                                                            Passed House         Does not apply to employee or employer self-insured health benefit plans under the
+                                                            (5/27/2026)          federal Employee Retirement Income Security Act of 1974.
+Massachusetts An Act relative to AI health communications   Failed               Requires patients and residents of public health facilities to be informed if the
+              and informed patient consent (H 1210)                              information they receive is AI-generated; if it is AI-generated and not previously
+                                                                                 reviewed by their provider, the patient or resident must be provided with instructions to
+                                                                                 contact a human healthcare provider. Requires carriers to disclose in a health plan
+                                                                                 member’s evidence of coverage document the use of AI in the claims review process,
+                                                                                 including a summary of the AI tools and an explanation of how they are in use
+                                                                                 throughout the process. Requires carriers to submit a Division of Insurance prescribed
+                                                                                 form annually, detailing the AI algorithms and data training sets that are or will be used
+                                                                                 during the utilization review process. Requires carriers to attest that such algorithms
+                                                                                 and training data sets adhere to evidence-based clinical guidelines and have minimized
+                                                                                 the risk of bias based on race, color, religious creed, ancestry, age, sex, gender, national
+                                                                                 origin, handicap or disability.
+Massachusetts An Act relative to the use of artificial      Failed               Requires any carrier or utilization review organization that uses an AI, algorithm, or
+              intelligence and other software tools in                           other software tool for utilization review or utilization management functions, or that
+              healthcare decision-making (S 46)                                  contracts with or otherwise works through an entity that does so, to meet certain
+                                                                                 requirements, including ensuring the tool bases its determination on specified
+                                                                                 information, does not replace healthcare provider decision-making, does not
+                                                                                 discriminate, and is open to inspection for audit or compliance reviews.
+Massachusetts An Act relative to the use of artificial      Failed               Requires licensed professionals to provide written notice and obtain patient consent
+              intelligence and other software tools in                           before using AI in recorded or transcribed therapy sessions and prohibits licensed
+              healthcare decision-making (S 2632)                                professionals from allowing AI to make therapeutic decisions, communicate with
+                                                                                 clients, generate unreviewed treatment recommendations, or detect emotions or mental
+                                                                                 states. Establishes civil penalties. Requires any carrier or utilization review organization
+                                                                            25
+
+                                                                                                                      © 2026 STEPTOE LLP ALL RIGHTS RESERVED
+                                                                                                                                           Last Updated: August 3, 2026
+
+
+                                                                             that uses an AI, algorithm, or other software tool for utilization review or utilization
+                                                                             management functions, or that contracts with or otherwise works through an entity that
+                                                                             does so, to meet certain requirements, including ensuring the tool bases its
+                                                                             determination on specified information, does not replace healthcare provider decision-
+                                                                             making, does not discriminate, and is open to inspection for audit or compliance
+                                                                             reviews. Clarifies this section applies to insured individuals regardless of their
+                                                                             residency. Establishes a right to civil action for violations of the act and allows the
+                                                                             court to award the plaintiff up to $5,000 per violation or actual damages, punitive
+                                                                             damages, injunctive relief, and reasonable attorney’s fees and litigation costs.
+New York   Relates to the use of artificial intelligence for   Failed        Requires insured individuals to be notified about the application of AI in the utilization
+           utilization review. (A 1456)                                      review process. Mandates that insurers submit their AI algorithms and training data sets
+                                                                             to the Department of Insurance to ensure that bias is minimized.
+New York   Establishes requirements for the use of artificial Failed         Establishes requirements for the use of AI in utilization review and management within
+           intelligence, algorithm, or other software tools                  healthcare service plans.
+           in utilization review and management. (A
+           3991)
+New York   Relates to the use of an artificial intelligence,  Failed         Prescribes requirements and safeguards for the use of an AI algorithm or other software
+           algorithm, or other software tool for the                         tool for the purpose of utilization review for health and accident insurance.
+           purpose of utilization review. (A 8556 / S
+           7896)
+Virginia   Health carriers; use of artificial intelligence,   Failed         Requires health carriers to disclose to the State Corporation Commission's Bureau of
+           disclosures (SB 586)                                              Insurance how AI is used to manage claims coverage, maintain documentation of AI
+                                                                             decisions for at least three years, and submit all information necessary for enforcement,
+                                                                             related to compliance with minimum fair business standards for claim payment and
+                                                                             processing, to the Bureau upon request. Requires health carriers to provide notice to
+                                                                             enrollees and healthcare providers when AI has been used to issue an adverse
+                                                                             determination and to provide a clear and timely process for appeal of such
+                                                                             determination.
+
+
+
+
+                                                                        26
+
+                                                                                                                 © 2026 STEPTOE LLP ALL RIGHTS RESERVED
+

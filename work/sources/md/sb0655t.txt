@@ -1,0 +1,141 @@
+                                       SENATE BILL 655
+     D1                                                                                             5lr2146
+                                                                                                 CF HB 966
+     By: Senator Hester
+     Introduced and read first time: January 25, 2025
+     Assigned to: Judicial Proceedings
+     Committee Report: Favorable with amendments
+     Senate action: Adopted
+     Read second time: February 21, 2025
+
+                                                CHAPTER ______
+
+ 1   AN ACT concerning
+
+ 2    Courts – Artificial Intelligence Evidence Clinic Pilot Program – Establishment
+
+ 3   FOR the purpose of establishing an Artificial Intelligence Evidence Clinic Pilot Program
+ 4        within the Administrative Office of the Courts; requiring the Administrative Office
+ 5        of the Courts to issue a request for proposals to select an entity to conduct the
+ 6        Program and requiring the Administrative Office of the Courts to give preference to
+ 7        certain entities in the selection process develop a grant application for the Program
+ 8        and award grants to eligible institutions of higher education; authorizing the
+ 9        Governor to include in the annual budget bill an appropriation to the Program and
+10        establishing a certain limitation on the expenditure of appropriated funds; and
+11        generally relating to the Artificial Intelligence Evidence Clinic Pilot Program.
+
+12   BY adding to
+13        Article – Courts and Judicial Proceedings
+14        Section 13–101.2
+15        Annotated Code of Maryland
+16        (2020 Replacement Volume and 2024 Supplement)
+
+17         SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+18   That the Laws of Maryland read as follows:
+
+19                            Article – Courts and Judicial Proceedings
+
+20   13–101.2.
+
+
+     EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+          [Brackets] indicate matter deleted from existing law.
+          Underlining indicates amendments to bill.
+           Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+           amendment.
+
+                                                                             *sb0655*
+     2                                 SENATE BILL 655
+
+ 1         (A)    (1)   IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+ 2   INDICATED.
+
+ 3                (2)“ARTIFICIAL INTELLIGENCE” HAS THE MEANING STATED IN §
+ 4   3.5–801 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+
+ 5                (3)   “OFFICE” MEANS THE ADMINISTRATIVE OFFICE OF THE COURTS.
+
+ 6             (4) “PROGRAM” MEANS THE ARTIFICIAL INTELLIGENCE EVIDENCE
+ 7   CLINIC PILOT PROGRAM.
+
+ 8         (B)THERE IS AN ARTIFICIAL INTELLIGENCE EVIDENCE CLINIC PILOT
+ 9   PROGRAM IN THE OFFICE.
+
+10         (C)    (1)THE PURPOSE OF THE PROGRAM IS TO PROVIDE EXPERTISE IN
+11   ARTIFICIAL INTELLIGENCE TO THE CIRCUIT COURTS AND THE DISTRICT COURT IN
+12   THE FORM OF EXPERT TESTIMONY ON THE AUTHENTICITY OF ELECTRONIC
+13   EVIDENCE THAT A COURT DETERMINES MAY HAVE BEEN CREATED OR ALTERED
+14   USING ARTIFICIAL INTELLIGENCE.
+
+15                (2)
+                    THE PROGRAM SHALL ENGAGE COLLEGE AND UNIVERSITY
+16   STUDENTS, RECENT GRADUATES, AND FACULTY AND TECHNOLOGY PROFESSIONALS
+17   DEDICATED TO THE RESEARCH AND ADVANCEMENT OF ARTIFICIAL INTELLIGENCE
+18   IN ORDER TO DEVELOP EXPERT WITNESS RESOURCES FOR COURTS TO USE IN CASES
+19   IMPLICATING THE USE OF ARTIFICIAL INTELLIGENCE.
+
+20             (3) THE PROGRAM SHALL PRIORITIZE CIVIL CASES IN WHICH ONE OR
+21   MORE PARTIES DO NOT HAVE LEGAL REPRESENTATION OR REASONABLE ACCESS TO
+22   EXPERT TESTIMONY.
+
+23         (D)    (1)
+                   THE OFFICE SHALL ISSUE A REQUEST FOR PROPOSALS FOR THE
+24   PROGRAM TO SELECT AN ENTITY TO MANAGE THE PROGRAM.
+
+25                (2)   AT A MINIMUM, THE REQUEST FOR PROPOSALS SHALL:
+
+26                      (I)    STATE WITH SPECIFICITY THE GOALS OF THE PROGRAM;
+27   AND
+
+28                      (II)   STATE
+                                WITH    SPECIFICITY THE  OBJECTIVES   AND
+29   PERFORMANCE CRITERIA THAT WILL BE USED TO MEASURE THE SUCCESS OF THE
+30   PROGRAM, INCLUDING AN ENTITY’S WILLINGNESS TO:
+
+31                             1.   LIST THE CLINIC AS A FOR–CREDIT COURSE; AND
+                                   SENATE BILL 655                                 3
+
+ 1                           2.   ENABLE CREDIT SHARING ACROSS INSTITUTIONS OF
+ 2   HIGHER EDUCATION.
+
+ 3              (3) IN SELECTING AN ENTITY TO MANAGE THE PROGRAM, THE
+ 4   OFFICE SHALL GIVE PREFERENCE TO AN ENTITY THAT:
+
+ 5                    (I)    IS A MARYLAND–BASED VENDOR;
+
+ 6                    (II)
+                       HAS AN ACADEMIC FOCUS ON COMPUTER SCIENCE AND
+ 7   TECHNOLOGY RESEARCH AND ADVANCEMENT;
+
+ 8                    (III) HAS     EXPERIENCE       RELATING      TO    ARTIFICIAL
+ 9   INTELLIGENCE; AND
+
+10                    (IV)
+                         WILL MAXIMIZE THE USE OF STATE FUNDS THROUGH THE
+11   USE  OF   MECHANISMS,   INCLUDING   PREEXISTING  MATERIALS,  FUNDING
+12   PARTNERSHIPS, AND RESOURCE MATCHING IN ADMINISTERING THE PROGRAM, THE
+13   OFFICE SHALL:
+
+14              (1)   DEVELOP A GRANT APPLICATION FOR THE PROGRAM; AND
+
+15            (2)     AWARD GRANTS TO ELIGIBLE INSTITUTIONS OF HIGHER
+16   EDUCATION.
+
+17        (E)   (1) FOR FISCAL YEARS 2027 AND 2028, THE GOVERNOR MAY
+18   INCLUDE IN THE ANNUAL BUDGET BILL AN APPROPRIATION OF $250,000 TO THE
+19   PROGRAM.
+
+20              (2)NOT MORE THAN 20% OF THE MONEY APPROPRIATED TO THE
+21   PROGRAM MAY BE USED FOR ADMINISTRATIVE EXPENSES.
+
+22        (F)  THE TERMS OF THE AGREEMENT BETWEEN THE OFFICE AND AN ENTITY
+23   SELECTED TO MANAGE THE PROGRAM SHALL INCLUDE A CLAUSE THAT REQUIRES
+24   THE OFFICE TO HOLD HARMLESS THE ENTITY SELECTED TO CONDUCT THE
+25   PROGRAM AGAINST ANY CLAIM ALLEGING LIABILITY OR DAMAGES RELATING TO
+26   THE PROVISION OF EXPERTISE IN ARTIFICIAL INTELLIGENCE AS PART OF THE
+27   PROGRAM, EXCEPT IN CASES OF WILLFUL OR WANTON MISCONDUCT, GROSS
+28   NEGLIGENCE, OR INTENTIONALLY TORTIOUS CONDUCT.
+
+29         SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+30   1, 2025.
+

@@ -1,0 +1,41 @@
+https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB574	HTTPError 520	
+https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB524	HTTPError 520	
+https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB11	HTTPError 520	
+https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB316	HTTPError 520	
+https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202320240SB970	HTTPError 520	
+https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202320240AB2811	HTTPError 520	
+https://assembly.state.ny.us/leg/?term=2023&bn=A08110&Summary=Y&Actions=Y&Text=Y	HTTPError 520	
+https://www.nysenate.gov/legislation/bills/2023/S08390	HTTPError 520	
+https://www.nysenate.gov/legislation/bills/2023/S09640	HTTPError 520	
+https://assembly.state.ny.us/leg/?term=2023&bn=A10625&Summary=Y&Actions=Y&Text=Y	HTTPError 520	
+https://assembly.state.ny.us/leg/?term=2025&bn=A01338&Summary=Y&Actions=Y&Text=Y	HTTPError 520	
+https://assembly.state.ny.us/leg/?term=2025&bn=A06545&Summary=Y&Actions=Y&Text=Y	HTTPError 520	
+https://www.nysenate.gov/legislation/bills/2025/S07263	HTTPError 520	
+https://www.nysenate.gov/legislation/bills/2025/S10675	URLError: <urlopen error [Errno 61] Connection refused>	
+https://assembly.state.ny.us/leg/?term=2025&bn=A07172&Summary=Y&Actions=Y&Text=Y	URLError: <urlopen error [Errno 61] Connection refused>	
+https://www.nysenate.gov/legislation/bills/2025/S10574	URLError: <urlopen error [Errno 61] Connection refused>	
+https://assembly.state.ny.us/leg/?term=2025&bn=A08546&Summary=Y&Actions=Y&Text=Y	HTTPError 520	
+https://www.nysenate.gov/legislation/bills/2025/S02698	URLError: <urlopen error [Errno 61] Connection refused>	
+https://www.nysenate.gov/legislation/bills/2025/S09794	URLError: <urlopen error [Errno 61] Connection refused>	
+https://assembly.state.ny.us/leg/?term=2025&bn=A09253&Summary=Y&Actions=Y&Text=Y	URLError: <urlopen error [Errno 61] Connection refused>	
+https://www.nysenate.gov/legislation/bills/2025/S10425	URLError: <urlopen error [Errno 61] Connection refused>	
+https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0655?ys=2025RS	URLError: <urlopen error [Errno 61] Connection refused>	
+https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0966?ys=2025RS	URLError: <urlopen error [Errno 61] Connection refused>	
+https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0182?ys=2024RS	URLError: <urlopen error [Errno 61] Connection refused>	
+https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0338?ys=2024RS	HTTPError 520	
+https://www.legis.la.gov/Legis/BillInfo.aspx?i=248099	URLError: <urlopen error [Errno 61] Connection refused>	
+https://www.legis.la.gov/legis/BillInfo.aspx?s=25rs&b=HR272	URLError: <urlopen error [Errno 61] Connection refused>	
+https://le.utah.gov/~2025/bills/static/SB0226.html	URLError: <urlopen error [Errno 61] Connection refused>	
+https://lis.virginia.gov/bill-details/20251/HB1642	URLError: <urlopen error [Errno 61] Connection refused>	
+https://lis.virginia.gov/bill-details/20251/HB2433	URLError: <urlopen error [Errno 61] Connection refused>	
+https://lis.virginia.gov/bill-details/20251/HB2692	URLError: <urlopen error [Errno 61] Connection refused>	
+https://apps.legislature.ky.gov/record/25rs/hb498.html	URLError: <urlopen error [Errno 61] Connection refused>	
+http://www.oklegislature.gov/BillInfo.aspx?Bill=HB2016&Session=2500	URLError: <urlopen error [Errno 61] Connection refused>	
+https://app.leg.wa.gov/billsummary?BillNumber=6073&Year=2023&Initiative=false	URLError: <urlopen error [Errno 61] Connection refused>	
+https://legis.delaware.gov/BillDetail?LegislationId=140866	URLError: <urlopen error [Errno 61] Connection refused>	
+https://webserver.rilegislature.gov/BillText/BillText25/SenateText25/S0627.pdf	HTTPError 520	
+https://www.wvlegislature.gov/Bill_Status/bills_history.cfm?INPUT=688&year=2025&sessiontype=RS&btype=bill	URLError: <urlopen error [Errno 61] Connection refused>	
+https://www.wvlegislature.gov/Bill_Status/bills_history.cfm?INPUT=2431&year=2025&sessiontype=RS&btype=bill	URLError: <urlopen error [Errno 61] Connection refused>	
+https://www.govinfo.gov/app/details/BILLS-119hr7997ih	HTTPError 520	
+https://www.govinfo.gov/app/details/BILLS-119s4154is	HTTPError 520	
+https://www.govinfo.gov/app/details/BILLS-118hr7394ih	URLError: <urlopen error [Errno 61] Connection refused>	

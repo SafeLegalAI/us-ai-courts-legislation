@@ -1,0 +1,149 @@
+
+==== 202320240AB2811-text.html ====
+
+-- 6068.1 --
+6068.1 to the Business and Professions Code, relating to artificial intelligence.
+LEGISLATIVE COUNSEL'S DIGEST
+AB 2811, as amended, Lowenthal.
+Artificial intelligence: legal professionals.
+Attorneys: court filings: artificial intelligence.
+Existing law, the State Bar Act, regulates the conduct of attorneys. Existing law provides that it is the duty of an attorney to, among other things, support the Constitution and laws of the United States and this state, and to maintain inviolate the confidence, and at every peril to the attorney to preserve the secrets, of the attorney’s client.
+This bill would additionally require an attorney to execute and maintain, for a period of 7 years, an affidavit certifying whether generative artificial intelligence, as defined, was used in the drafting of each document that the attorney files, or intends to file, in a state or federal court within this state. The bill would require an attorney to, upon request or demand by a state or federal court within this state,
+file the affidavit with the court, provided that the 7-year retention period has not yet expired.
+Existing law regulates the conduct of attorneys, legal document assistants, unlawful detainer assistants, and paralegals. Existing law establishes procedural rules governing pleadings, motions, notices, and other filings in civil and criminal actions and proceedings in trial and appellate courts in this state.
+This bill would express the intent of the Legislature to enact legislation that would require legal professionals to disclose to the court whether they have used artificial intelligence or machine learning to prepare any pleadings, motions, or other documents filed with any court in this state.
+Digest Key
+Vote:
+MAJORITY
+Appropriation:
+NO
+Fiscal Committee:
+NO
+YES
+Local Program:
+
+==== 202320240SB970-text.html ====
+
+-- 1425 --
+1425) to Chapter 1 of Division 11 of the Evidence Code, and to add Chapter 9 (commencing with Section 540) to Title 13 of Part 1 of the Penal Code, relating to artificial intelligence technology.
+LEGISLATIVE COUNSEL'S DIGEST
+SB 970, as amended, Ashby.
+Artificial intelligence technology.
+(1) Existing law prohibits the false impersonation of another person in either their personal or official capacity with the intent to steal or defraud, as specified.
+This bill would define various terms related to artificial intelligence and synthetic
+voice, video, and image recordings produced by artificial intelligence,
+content,
+and would clarify that use of such synthetic
+recordings,
+content,
+as specified, is deemed to be a false personation for
+purposes of these and other criminal provisions.
+(2) Existing law creates a civil cause of action against any person who knowingly uses the name, voice, signature, photograph, or likeness of another person, without their consent, for specified purposes.
+This bill would clarify that, for purposes of this cause of action, a synthetic voice or likeness that a reasonable person would believe to be a genuine voice or likeness, is deemed to be the voice or likeness of the person depicted.
+(3) Existing law governs the admissibility of evidence in court proceedings. Existing law prescribes procedures for the authentication of photographs and audio and video recordings.
+This bill would require the Judicial Council to develop and implement screening procedures for these types of records that are introduced as evidence, to identify those that are synthetic. The bill would also require the council to develop and promulgate educational materials to assist in the identification of evidence that has been tampered with by means of artificial intelligence.
+Thi
+
+==== 202520260AB316-text.html ====
+
+-- 1714.46 --
+1714.46 to the Civil Code, relating to civil actions.
+[
+Approved  by
+Governor
+October 13, 2025.
+Filed with
+Secretary of State
+October 13, 2025.
+]
+LEGISLATIVE COUNSEL'S DIGEST
+AB 316, Krell.
+Artificial intelligence: defenses.
+Existing law provides that everyone is responsible not only for the result of their willful acts, but also for an injury occasioned to another by their want of ordinary care or skill in the management of their property or person.
+Existing law requires the developer of a generative artificial intelligence system or service that is released on or after January 1, 2022, and made publicly available to Californians for use, to post on the developer's internet website documentation regarding the data used by the developer to train the generative artificial intelligence system or service. Existing law defines “artificial intelligence” for these purposes.
+This bill would prohibit a defendant who developed, modified, or used artificial intelligence, as defined, from asserting a defense that the artificial
+intelligence autonomously caused the harm to the plaintiff.
+Digest Key
+Vote:
+MAJORITY
+Appropriation:
+NO
+Fiscal Committee:
+NO
+Local Program:
+NO
+Bill Text
+The people of the State of California do enact as follows:
+SECTION 1.
+Section 1714.46 is added to the Civil Code, to read:
+1714.46.
+(a) “Artificial intelligence” means an engineered or machine-based system that varies in its level of autonomy and that can, for explicit or implicit objectives, infer from the input it receives how to generate outputs that can influence physical or virtual environments.
+(b) In an action against a defendant who developed, modified, or used artificial intelligence that is alleged to have caused a harm to the plaintiff, it shall not be a defense, and the defendant may not assert,
+
+==== 202520260SB11-text.html ====
+
+-- 1425 --
+1425) to Chapter 1 of Division 11 of the Evidence Code, and to add Chapter 9 (commencing with Section 540) to Title 13 of Part 1 of the Penal Code, relating to artificial intelligence technology.
+LEGISLATIVE COUNSEL'S DIGEST
+SB 11, Ashby.
+Artificial intelligence technology.
+(1) Existing law prohibits the false impersonation of another person in either their personal or official capacity with the intent to steal or defraud, as specified.
+This bill would define various terms related to artificial intelligence and digital replication, and would clarify that false impersonation includes the use of a digital replica with the intent to impersonate another for purposes of these and other criminal provisions.
+(2) Existing law creates a civil cause of action against any person who knowingly uses the name, voice, signature, photograph, or likeness of another person, without their consent, for specified purposes. When a photograph or likeness of an employee of the person using the photograph or likeness appearing in an advertisement or
+other publication is incidental and not essential to the purpose of the publication, existing law establishes a rebuttable presumption affecting the burden of producing evidence that failure to obtain the consent of an employee was not a knowing use of an employee’s photograph or likeness.
+This bill would clarify that, for purposes of this cause of action, a voice or likeness includes a digital replica, as defined. The bill would also remove the provisions establishing the rebuttable presumption when an employee’s likeness or photograph appears in an advertisement or other publication.
+(3) Existing law governs the admissibility of evidence in court proceedings. Existing law prescribes procedures for the authentication of photographs and audio and vi
+
+==== 202520260SB524-text.html ====
+
+-- 13663 --
+13663 to the Penal Code, relating to law enforcement agencies.
+[
+Approved  by
+Governor
+October 10, 2025.
+Filed with
+Secretary of State
+October 10, 2025.
+]
+LEGISLATIVE COUNSEL'S DIGEST
+SB 524, Arreguín.
+Law enforcement agencies: artificial intelligence.
+Existing law generally provides for the regulation of law enforcement agencies, including, among other things, requiring each local law enforcement agency to conspicuously post on their internet websites all current standards, policies, practices, operating procedures, and education and training materials that would otherwise be available to the public under specified circumstances.
+This bill would require each law enforcement agency to maintain a policy to require an official report prepared by a law enforcement officer or any member of a law enforcement agency that is generated using artificial intelligence either fully or partially to include specified information, including a disclosure statement and the signature of the law enforcement officer or member of a law enforcement agency who prepared the official report, as specified. If an
+officer or any member of an agency uses artificial intelligence to create an official report, the bill would require the first draft created to be retained for as long as the official report is retained. The bill would, except for the official report, prohibit a draft of any report created with the use of artificial intelligence from constituting an officer’s statement. The bill would require an agency utilizing artificial intelligence to generate a first draft or official report to maintain an audit trail that identifies, at a minimum, certain things, including the person who used artificial intelligence to create a report. The bill would prohibit a contracted vendor from sharing, selli
+
+==== 202520260SB574-text.html ====
+
+-- 6068.1 --
+6068.1 to, the Business and Professions Code, and to amend Section 128.7 of, and to add Sections 180 and 1282.1 to, the Code of Civil Procedure, relating to civil proceedings.
+LEGISLATIVE COUNSEL'S DIGEST
+SB 574, Umberg.
+Attorneys, arbitrators, judicial officers, and alternative resolution providers.
+Existing law, the State Bar Act, provides for the licensure and regulation of attorneys by the State Bar of California, a public corporation. The act requires an attorney to strictly maintain client confidences and to preserve client secrets at their own peril.
+This bill would prohibit an attorney from delegating the practice of law to generative artificial intelligence. The bill would require an attorney who uses generative artificial intelligence to assist in the practice of law to, among other things, not enter confidential, personal identifying, and other nonpublic information into a generative artificial intelligence system, as specified. The bill would also require an attorney to take reasonable steps to verify the accuracy of generative artificial intelligence outputs and to correct any erroneous or hallucinated output in any material
+used by the attorney.
+Existing law requires every pleading, petition, written notice of motion, or other similar paper to be signed by the attorney of record, or if a party is unrepresented, by the party, thereby certifying to the best of the person’s knowledge, information, and belief that it is not being presented primarily for an improper purpose and that the claims, defenses, and legal and factual contentions are warranted, as specified.
+This bill would prohibit a brief, pleading, motion, or any other paper filed in any court from containing any citations that an attorney responsible for submitting the pleading has not personally ve
+
+-- 128.7 --
+128.7 of, and to add Sections 180 and 1282.1 to, the Code of Civil Procedure, relating to civil proceedings.
+LEGISLATIVE COUNSEL'S DIGEST
+SB 574, Umberg.
+Attorneys, arbitrators, judicial officers, and alternative resolution providers.
+Existing law, the State Bar Act, provides for the licensure and regulation of attorneys by the State Bar of California, a public corporation. The act requires an attorney to strictly maintain client confidences and to preserve client secrets at their own peril.
+This bill would prohibit an attorney from delegating the practice of law to generative artificial intelligence. The bill would require an attorney who uses generative artificial intelligence to assist in the practice of law to, among other things, not enter confidential, personal identifying, and other nonpublic information into a generative artificial intelligence system, as specified. The bill would also require an attorney to take reasonable steps to verify the accuracy of generative artificial intelligence outputs and to correct any erroneous or hallucinated output in any material
+used by the attorney.
+Existing law requires every pleading, petition, written notice of motion, or other similar paper to be signed by the attorney of record, or if a party is unrepresented, by the party, thereby certifying to the best of the person’s knowledge, information, and belief that it is not being presented primarily for an improper purpose and that the claims, defenses, and legal and factual contentions are warranted, as specified.
+This bill would prohibit a brief, pleading, motion, or any other paper filed in any court from containing any citations that an attorney responsible for submitting the pleading has not personally verified, including any citation provided by generative artificial in
+
+-- 6173 --
+6173 of, and to add Section 6068.1 to, the Business and Professions Code, and to amend Section 128.7 of, and to add Sections 180 and 1282.1 to, the Code of Civil Procedure, relating to civil proceedings.
+LEGISLATIVE COUNSEL'S DIGEST
+SB 574, Umberg.
+Attorneys, arbitrators, judicial officers, and alternative resolution providers.
+Existing law, the State Bar Act, provides for the licensure and regulation of attorneys by the State Bar of California, a public corporation. The act requires an attorney to strictly maintain client confidences and to preserve client secrets at their own peril.
+This bill would prohibit an attorney from delegating the practice of law to generative artificial intelligence. The bill would require an attorney who uses generative artificial intelligence to assist in the practice of law to, among other things, not enter confidential, personal identifying, and other nonpublic information into a generative artificial intelligence system, as specified. The bill would also require an attorney to take reasonable steps to verify the accuracy of generative artificial intelligence outputs and to correct any erroneous or hallucinated output in any material
+used by the attorney.
+Existing law requires every pleading, petition, written notice of motion, or other similar paper to be signed by the attorney of record, or if a party is unrepresented, by the party, thereby certifying to the best of the person’s knowledge, information, and belief that it is not being presented primarily for an improper purpose and that the claims, defenses, and legal and factual contentions are warranted, as specified.
+This bill would prohibit a brief, pleading, motion, or any other paper filed in any court from containing any citations that an attorney responsible for submitting the pl

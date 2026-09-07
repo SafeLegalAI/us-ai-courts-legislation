@@ -1,0 +1,54 @@
+{
+ "dataset": "US legislation on AI in courts, evidence and legal services",
+ "version": "0.1.0",
+ "built": "2026-09-07",
+ "canonical": "https://safelegalai.com/regulation/legislation",
+ "repository": "https://github.com/SafeLegalAI/us-ai-courts-legislation",
+ "huggingface": "https://huggingface.co/datasets/safelegalaidata/us-ai-courts-legislation",
+ "license_data": "CC BY 4.0 (SafeLegalAI, Cognesio LLP); underlying official documents keep their own status (see NOTICE)",
+ "notice": "Provided as is, without warranty. Not legal advice. SafeLegalAI (Cognesio LLP) records what courts, regulators, legislatures and vendors' own public pages state; the linked official documents are the record. Names and marks belong to their owners. Anyone named may reply: https://safelegalai.com/report. Full terms: https://safelegalai.com/disclaimer",
+ "tables": {
+  "bills": {
+   "file": "data/bills.jsonl",
+   "schema": "schema/bills.schema.json",
+   "stats": {
+    "rows": 41,
+    "rejected": 0,
+    "by_jurisdiction": {
+     "NY": 15,
+     "CA": 6,
+     "MD": 4,
+     "US": 3,
+     "VA": 3,
+     "LA": 2,
+     "WV": 2,
+     "UT": 1,
+     "RI": 1,
+     "KY": 1,
+     "OK": 1,
+     "DE": 1,
+     "WA": 1
+    },
+    "by_status": {
+     "in-committee": 19,
+     "in-force": 10,
+     "died": 7,
+     "enrolled": 2,
+     "introduced": 2,
+     "veto-sustained": 1
+    },
+    "by_lane": {
+     "evidence": 18,
+     "courts-judiciary": 17,
+     "police-reports-criminal": 14,
+     "attorney-ai-use": 8,
+     "legal-services-upl": 5,
+     "legal-aid-a2j": 3
+    },
+    "by_verification": {
+     "fetched-and-read": 41
+    }
+   }
+  }
+ }
+}

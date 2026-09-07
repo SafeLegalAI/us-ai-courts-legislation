@@ -1,0 +1,1156 @@
+THE STATE OF STATE AI
+Legislative Approaches to AI in 2025
+
+      OCTOBER 2025 • SUPPLEMENTAL
+                                                AUTHORS
+                                                 Justine Gluck
+              Policy Analyst, AI Policy and Legislation, Future of Privacy Forum
+
+                                                     Beth Do
+                                 Policy Fellow, Future of Privacy Forum
+
+                                                  Tatiana Rice
+                  Senior Director of U.S. Legislation, Future of Privacy Forum
+
+
+
+
+                                 ACKNOWLEDGEMENTS
+                      Thanks to Bridget Egan for her research contributions.
+
+
+
+
+The Future of Privacy Forum (FPF) is a non-profit organization that serves as a catalyst
+for privacy leadership and scholarship, advancing principled data practices in support of
+emerging technologies. Learn more about FPF by visiting fpf.org.
+
+
+
+
+   All FPF materials that are released publicly are free to share and adapt with appropriate attribution. Learn more.
+ Table 1. Legislative Outcomes for State AI Bills
+
+Overview of the 210 industry-focused AI bills tracked by FPF in 2025, illustrating the status of each
+bill within the legislative process.
+
+ 2025 State AI Bill Tracker
+
+
+
+
+ Table 2. State by State Legislative Outcomes for AI Bills
+
+Overview of the number of industry-focused AI bills introduced per state in 2025, distinguishing
+how many bills were enrolled or enacted per state.
+
+ Introduced AI Billls, Enrolled or Enacted by State as of September 2025
+
+    40
+
+
+
+
+    30
+
+
+
+
+    20
+
+
+
+
+    10
+
+
+
+
+    0     AL
+         AK
+         AR
+         CA
+         CO
+         CT
+         DE
+          FL
+         GA
+          HI
+          ID
+           IL
+          IN
+          IA
+         KY
+          LA
+         ME
+         MD
+         MA
+          MI
+         MN
+         MS
+         MO
+         MT
+         NV
+          NJ
+         NM
+         NY
+         NC
+         OH
+         OK
+         OR
+         PA
+         SC
+         TX
+         UT
+         VT
+         VA
+         WARI
+         WV
+         WY
+
+                                     Enrolled or Enacted          Introduced
+
+                                    Future of Privacy Forum | The State of State AI 2025 | SUPPLEMENTAL | October 2025   3
+ Table 3. Overview of NCSL-Tracked AI Bills in 2025
+
+Overview of the 1,033 AI-related bills tracked by the National Conference of State Legislatures
+(NCSL) in 2025, by category.
+
+ NCSL Bills by Category
+  NCSL Bills by Category
+  Judicial Use                                                                                                   Appropriations
+  1.4%                                                                                                                     3.1%
+  Energy                                                                                                        Government Use
+  1.6%                                                                                                                   12.5%
+  Private Sector Use
+  10.5%
+  Oversight/Governance
+  .8%
+
+
+
+  Education Use                                                                                                      Health Use
+  10.6%                                                                                                                   13.3%
+
+
+
+
+  Responsible Use                                                                                                   Notification
+  5.9%                                                                                                                     3.4%
+  Provenance                                                                                                            Studies
+  1.5%                                                                                                                    6.0%
+  Effect on Labor/Employment                                                                                          Elections
+  4.8%                                                                                                                    4.5%
+  Education/Training                                                                                                     CSAM
+  1.6%                                                                                                                    3.0%
+  Criminal Use                                                                                                         Housing
+  8.8%                                                                                                                     4.1%
+
+
+
+
+ Table 4. Overview of NCSL-Tracked AI Bills in 2025: By Industry Obligations
+
+Overview of the 1,033 AI-related bills tracked by the National Conference of State Legislatures
+(NCSL) in 2025, distinguished by bills that set or did not set industry obligations.
+
+                       All NCSL Bills by Industry Obligation
+ All NCSL Bills by Industry Obligation
+
+
+
+                        Industry Obligation
+                        30.1%
+                                                     295
+
+
+                                                                       685
+                                                                                        No Industry Obligation
+                                                                                                           69.9%
+
+
+
+
+                                              Future of Privacy Forum | The State of State AI 2025 | SUPPLEMENTAL | October 2025   4
+ Table 5. Categorization of FPF-Tracked State AI Bills: Subcategories
+
+Organizes the 210 industry-focused AI bills tracked by FPF’s U.S. Legislation Team in 2025 across
+18 subcategories.
+
+ Status of AI Bills by Category
+
+
+ Finance
+ .4%                                                                                                Government Use
+ Employment                                                                                                  14.6%
+ 9.6%
+
+
+ ADMT/High-Risk AI
+ 11.7%
+                                                                                                          Task Force
+                                                                                                                7.5%
+
+
+
+                                                                                                         Investment
+                                                                                                                5.9%
+ Health                                                                                           Regulatory Agency
+ 8.8%                                                                                                            .8%
+                                                                                                           AI Safety
+ Biometrics                                                                                                     5.4%
+ .8%                                                                                                         Liability
+                                                                                                                2.5%
+ Chatbots
+ 3.8%                                                                                                    Sandboxes
+ Privacy                                                                                                         .8%
+ 1.7%                                                                                                 Transparency
+                                                                                                                5.9%
+ Frontier/Foundation
+ 2.9%                                                                                                 Miscellaneous
+                                                                                                                1.7%
+ Generative AI                                                                                    Comprehensive AI
+ 10.9%                                                                                                          2.1%
+
+
+
+
+                                  Future of Privacy Forum | The State of State AI 2025 | SUPPLEMENTAL | October 2025     5
+ Table 6. Categorization of FPF-Tracked State AI Bills: Themes
+
+Organizes the 210 industry-focused AI bills tracked by FPF’s U.S. Legislation Team in 2025 into
+overarching themes, excluding bills focused on government use and strategy that do not set direct
+industry obligations. Bills in the “miscellaneous” category are primarily comprehensive AI legislation.
+
+ Status of AI Bills with Industry Obligations by Broad Category
+
+
+
+                                                                        Liability and Accountability
+                                                                                             23.8%
+
+      Use/Context-Specific
+      41.9%
+                                                                                        Miscellaneous
+                                                                                                 5.0%
+
+
+
+
+                                                                                Technology Specific
+                                                                                                  29.4%
+
+
+
+ Table 7. FPF-Tracked State AI Bills: By Industry Obligations
+
+Reveals that the vast majority of bills tracked by FPF set obligations on industry (bills with
+“no industry obligation” primarily fell under the “government oversight and strategy” theme not
+      FPF in
+highlightedTracked    Bills
+              this report).
+
+ FPF Tracked Bills
+
+
+
+        No Industry Obligation
+        23.8%
+
+
+
+
+                                                                                  Industry Obligation
+                                                                                               76.2%
+
+
+
+
+                                   Future of Privacy Forum | The State of State AI 2025 | SUPPLEMENTAL | October 2025   6
+ Table 8. Description of FPF-Tracked AI Bill Categories
+
+Details the different types of AI bills identified by FPF and their categorization, falling within
+overarching themes.
+
+                   Use or Context-Specific                                          Technology Specific
+
+    Focuses on certain uses of AI in high-risk                              Focuses on specific types of AI
+    decisionmaking or contexts–such as healthcare,                          technologies based on the tailored
+    employment, and finance–as well as broader                              risks they present, such as generative
+    proposals that address AI systems used in a variety                     AI, frontier/foundation models, and
+    of consequential decisionmaking contexts. These                         chatbots. These bills often tailor
+    bills typically focus on applications where AI may                      requirements to the functionality,
+    significantly impact individuals’ rights, access to                     capabilities, or use patterns of
+    services, or economic opportunities.                                    each system type.
+    Employment: Regulates AI in the workplace,                              Generative AI: Requires public
+    including transparency measures for the use of                          disclosure/provenance data for
+    automated employment decision tools (AEDTs) and                         AI-generated content (including
+    employee monitoring.                                                    generative AI, and chatbots).
+    Health: Establishes disclosure and oversight                            Frontier/Foundation Models:
+    requirements for AI used in health care, including                      Regulates foundation AI systems–
+    mandates for practitioner review of AI-influenced                       includes open or closed source,
+    decisions and regulations for mental health chatbots.                   dual-use foundation models, and
+                                                                            frontier models.
+    Finance: Regulates AI systems that evaluate
+    consumer’s credit, lending decisions, and other                         Chatbots: Regulates the use of AI-
+    actions within the financial services industry.                         powered chatbots, with a focus on
+                                                                            chatbots used in sensitive contexts
+    ADMT / High-Risk AI: AI and automated decision
+                                                                            like mental health and employment,
+    systems used in high-risk decisionmaking contexts
+                                                                            setting disclosure and notification
+    that significantly impact individuals’ lives and
+                                                                            requirements and liability standards.
+    livelihoods, often in areas protected by existing civil
+    rights law.                                                             Biometrics: Regulates AI tools
+                                                                            that collect biometric identifiers,
+    Data Privacy: Imposes obligations on AI systems, often
+                                                                            including regulating the creation of
+    ‘high-risk’ systems, that collect personal information,
+                                                                            biometric identification systems from
+    including data collection and security practices.
+                                                                            web scraping.
+
+
+
+                                             Liability and Accountability
+
+   Focuses on defining, clarifying, or qualifying legal responsibility for use and development of AI systems, such
+   as establishing liability standards, creating affirmative defenses, or authorizing regulatory sandboxes. These
+   aim to support accountability, responsible innovation, and greater legal clarity.
+   Liability: Creates independent liability regimes for harms resulting from AI use or clarifies existing tort liability
+   regarding its application to AI.
+   AI Safety: Establishes transparency and accountability measures to mitigate AI-related harms, such as
+   requiring safety testing, publishing safety and security protocols, and protecting whistleblowers who report
+   safety violations.
+   Transparency: Requires disclosures about the use and functioning of AI systems, such as notifying individuals
+   when they are interacting with AI systems and not humans and disclosing system capabilities or training data.
+   Sandboxes: Administers a program for entities to test innovative AI systems under regulator supervision.
+
+
+
+                                         Future of Privacy Forum | The State of State AI 2025 | SUPPLEMENTAL | October 2025   7
+Table 8. Description of FPF-Tracked AI Bill Categories (continued)
+
+
+                                   Government Oversight and Strategy
+
+ Focuses on requirements for government agencies’ use of AI that have downstream or indirect effects on
+ the private sector, such as creating standards and requirements for agencies procuring AI systems from
+ private sector vendors.
+ Government Use: Encourages or governs the government’s own use of AI, including requiring impact
+ assessments and inventories of agency AI tools and setting government procurement standards.
+ Task Force: Establishes committees to assess AI benefits and risks, examine AI frameworks, and analyze
+ agency AI use.
+ Regulatory Agency: Establishes new divisions to provide regulatory oversight of AI practices, including
+ investigating complaints, conducting audits, and setting standards.
+ Investment: Builds initiatives aimed at fostering innovation, including grant and incentive programs.
+
+
+
+                                                Miscellaneous
+
+ Focuses on broad AI bills that establish comprehensive regulatory frameworks addressing multiple
+ technologies and policy areas in a single bill.
+ Comprehensive AI: Develops broad regulatory frameworks governing AI use, encompassing multiple
+ technologies and policy issues such as transparency, safety, and high-risk AI.
+
+
+
+
+                                     Future of Privacy Forum | The State of State AI 2025 | SUPPLEMENTAL | October 2025   8
+  Table 9. Political Affiliation of 2025 State AI Bills
+
+Breakdown of industry-focused AI bills introduced versus enrolled or enacted* in 2025 by political
+affiliation of the primary sponsor.
+
+      FPF AI
+          Tracked
+  Introduced         Bills
+              Bills by Political Affiliation of Sponsor
+
+
+
+
+           Republican
+           24.8%
+
+
+
+
+                                                                                                                        Democrat
+                                                                                                                           75.2%
+
+
+
+
+  Enrolled or enacted AI Bills by Political Affiliation of Sponsor
+
+
+
+
+          Republican
+          40.5%
+
+
+
+
+                                                                                                                        Democrat
+                                                                                                                           59.5%
+
+
+
+
+*Enrolled or enacted bills include all bills tracked by FPF, including government use and strategy bills with indirect impacts on industry.
+
+
+
+                                                  Future of Privacy Forum | The State of State AI 2025 | SUPPLEMENTAL | October 2025          9
+ Table 10. Political Affiliation of 2025 State AI Bills Based on Bill Categorization
+
+Breakdown of AI-related bills introduced by political affiliation of the primary sponsor, as per
+FPF’s bill tracking categories.
+
+ Democrat Introduced AI Bills by Broad Category
+
+    Miscellaneous
+    4.5%
+
+                                                                                        Government Oversight
+                                                                                                      26.5%
+
+    Use/Context-Specific
+    34.2%
+
+
+
+
+    Technology Specific                                                             Liability and Accountability
+    21.3%                                                                                                13.5%
+
+
+
+
+ Republican Introduced AI Bills by Broad Category
+     Republican-Introduced Bills by Broad Category
+
+       Miscellaneous
+       3.8%
+       Technology Specific
+       17.0%
+
+
+                                                                                      Government Oversight
+                                                                                                    43.4%
+
+
+
+       Use/Context-Specific
+       20.8%
+
+
+
+       Liability and Accountability
+       15.1%
+
+
+
+
+                                      Future of Privacy Forum | The State of State AI 2025 | SUPPLEMENTAL | October 2025   10
+  Table 11. Enrolled or Enacted 2025 State AI Bills
+
+Includes the bill number, description, and category of industry-focused AI bills enacted in 2025.*
+
+                                                       11 BILLS ARE ENACTED
+  Enacted State Bill                   Description                                             Category
+
+  Arkansas HB 1876
+                                       Ownership of AI-Generated Content                       Technology-Specific (Generative AI)
+  Rep. Richardson (R)
+
+
+  Connecticut SB 1295                  Personal Data Used in
+                                                                                               Use / Context Specific (ADMT)
+  Sen. Maroney (D)                     Automated Decisionmaking
+
+
+  Illinois HB 1806
+                                       Healthcare Professionals’ Use of AI                     Use / Context Specific (Health)
+  Rep. Morgan (D)
+
+
+  Maine LD 1727
+                                       AI Chatbot Transparency                                 Technology-Specific (Chatbots)
+  Rep. Kuhn (D)
+
+                                                                                               Use / Context Specific
+  Montana SB 212                       Right to Compute & AI in Critical                       (Critical Infrastructure);
+  Sen. Zolnikov (R)                    Infrastructure                                          Liability and Accountability
+                                                                                               (Right to Compute)
+
+  Nevada AB 406
+                                       AI Use by Healthcare Providers                          Use / Context Specific (Health)
+  Asm. Jackson (D)
+
+
+  New York S-3008C
+                                       AI Companions                                           Technology-Specific (Chatbots)
+  (FY26 Budget)
+
+
+  Texas SB 1188
+                                       AI Use by Healthcare Practitioners                      Use / Context Specific (Health)
+  Sen. Kolkhorst (R)
+
+
+  Texas HB 149                         Responsible AI Governance Act                           Liability and Accountability
+  Rep. Capriglione (R)                 (TRAIGA)                                                (Regulatory Sandbox)
+
+
+  Utah B 226                           Generative AI Transparency in High-
+                                                                                               Use / Context Specific (High-Risk Uses);
+  Sen. Cullimore (R)                   Risk Consumer Interactions
+
+                                                                                               Use / Context Specific (Health)
+  Utah HB 452                                                                                  Technology-Specific (Chatbots)
+                                       AI-Driven Mental Health Chatbots
+  Rep. Moss (R)                                                                                Liability and Accountability
+                                                                                               (Affirmative Defense)
+
+
+
+*For purposes of this report, “enacted” refers to bills that have passed both chambers of the legislature and been enrolled, though they may still
+be awaiting gubernatorial signature at the time of publication. Upon publication of this report, bills in California and New York are still awaiting
+gubernatorial action. This total is limited to bills with direct implications for industry and excludes measures focused solely on government use
+of AI or those that only extend the effective date of prior legislation.
+
+
+
+                                                  Future of Privacy Forum | The State of State AI 2025 | SUPPLEMENTAL | October 2025                   11
+Table 11. Enrolled or Enacted 2025 State AI Bills (continued)
+
+
+
+                    9 BILLS ARE ENROLLED BUT HAVE NOT YET BEEN SIGNED
+Enrolled Bill             Description                                      Category
+
+California SB 243
+                          Companion Chatbots                               Technology-Specific (Chatbots)
+Sen. Padilla (D)
+
+
+California SB 53          Transparency in Frontier Artificial              Technology-Specific (Frontier Models)
+Sen. Weiner (D)           Intelligence Act (TFAIA)                         Liability and Accountability (Strict Liability)
+
+
+California SB 11
+                          Digital Replicas Consumer Warning                Technology-Specific (Generative AI)
+Sen. Ashby (D)
+
+
+California SB 7           Employment and Automated
+                                                                           Use / Context Specific (Employment)
+Sen. McNerney (D)         Decision Systems
+
+
+California AB 1064        Leading Ethical AI Development (LEAD)
+                                                                           Technology-Specific (Chatbots)
+Asm. Bauer-Kahan (D)      for Kids Act
+
+
+California AB 853                                                          Technology-Specific (Generative AI)
+                          Amendments to CA AI Transparency Act
+Asm. Wicks (D)
+
+                                                                           Use / Context Specific (Health)
+California AB 489         Artificial Intelligence and
+                                                                           Liability and Accountability
+Asm. Bonta (D)            Health Care Professions
+                                                                           (Title Protections)
+
+California AB 316                                                          Liability and Accountability
+                          AI Liability Defenses
+Asm. Krell (D)                                                             (Legal Defense)
+
+                                                                           Technology-Specific
+New York S 6453                                                            (Frontier Models);
+                          Frontier Model Safety (RAISE Act)
+Asm. Bores (D)                                                             Liability and Accountability
+                                                                           (Strict Liability)
+
+
+
+
+                                    Future of Privacy Forum | The State of State AI 2025 | SUPPLEMENTAL | October 2025       12
+ Table 12. Enrolled or Enacted and Passed (in at least one chamber)
+ Use- or Context-Specific AI Bills
+
+Includes the bill number, author, category, and description of bills enrolled or enacted, as well as bills
+passing at least one legislative chamber, in 2025 under the theme of Use- or Context- Specific.
+  = Signed by Governor and Enrolled or Enacted           = Passed Chamber       = Passed Chamber + Cross-Committee
+  = Passed Both Chambers + Veto’ed by Governor
+
+
+
+                                            ENROLLED OR ENACTED BILLS
+ Bill Number               Author                      Category             Description
+
+ California SB 7           Sen. McNerney (D)           Employment           Would require an employer using ADS to provide a
+                                                                            notice, limit the purposes in which an ADS can be
+ (Awaiting Governor
+                                                                            used to make decisions, and allow workers affected
+ action)
+                                                                            by an employment-related decision made by an ADS
+                                                                            to access data.
+
+ California AB 489         Asm. Bonta (D)              Health               Would provide regulators the authority to enforce
+                                                                            title protections against those who develop or deploy
+ (Awaiting Governor
+ action)                                                                    AI systems that claim to be licensed or certified
+                                                                            health professionals.
+
+ California CPPA           California Privacy          High-Risk AI         Creates implementing regulations from privacy law
+ Draft Regulations         Protection Agency           / Automated          regarding ADMT in significant decisions, requiring
+                                                       Decisionmaking       covered entities to provide notice to consumers,
+ (Awaiting Governor
+ action)                                               (Privacy)            conduct risk assessments, and provide consumers
+                                                                            rights to access, opt-out, and appeal ADMT decisions.
+
+ Connecticut               Sen. Maroney (D)            High-Risk AI         Amends the data privacy law with provisions
+ SB 1295                                               / Automated          regarding ADMT, requiring covered entities to
+                                                       Decisionmaking       conduct an ADMT impact assessment and provide
+                                                       (Privacy)            consumers rights to access, review, and if the
+                                                                            decision concerned housing, the right to correct.
+
+ Illinois HB 1806          Rep. Morgan (D)             Health               Limits licensed professionals’ AI use to “permitted
+                                                                            uses,” prohibiting AI for independent therapeutic
+                                                                            decisions, direct client interaction, or generating
+                                                                            treatment recommendations.
+
+ Montana SB 212            Sen. Zolnikov (R)           Critical             Requires deployers of critical AI systems (those
+                                                       Infrastructure       making or are a substantial factor in making a
+                                                                            consequential decision) used for critical infrastructure
+                                                                            facilities to develop a risk management policy.
+
+ Nevada AB 406             Asm. Jackson (D)            Health               Prohibits AI providers from offering or advertising
+                                                                            the use of an AI system for mental or behavioral
+                                                                            healthcare. Licensed providers may not use AI to
+                                                                            deliver care except in administrative capacities.
+
+ New Jersey Data           Attorney General            High-Risk AI         Creates implementing regulations for the data
+ Privacy Rulemaking                                    / Automated          privacy law regarding automated profiling to make
+                                                       Decisionmaking       legal or similarly significant effects, requiring covered
+ (Awaiting Finalization)
+                                                       (Privacy)            entities to disclose information to consumers,
+                                                                            conduct an annual risk assessment, and provide
+                                                                            consumers the right to opt-out.
+
+
+
+                                               Future of Privacy Forum | The State of State AI 2025 | SUPPLEMENTAL | October 2025       13
+Table 12. Enrolled or Enacted and Passed (in at least one chamber)
+Use- or Context-Specific AI Bills (continued)
+                                ENROLLED OR ENACTED BILLS (continued)
+Texas SB 1188           Sen. Kolkhorst (R)         Health               Permits healthcare AI diagnostics if practitioners
+                                                                        operate within their license, adhere to laws, review AI
+                                                                        records per standards, and disclose AI use to patients.
+
+Utah SB 226             Sen. Cullimore (R)         High-Risk AI         Amended the Utah AI Policy Act to limit disclosure
+                                                   / Automated          requirements to “high-risk” interactions that could
+                                                   Decisionmaking       be relied upon by consumers to make significant
+                                                   (Generative)         decisions, including the provision of financial, legal,
+                                                                        or medical services.
+
+Utah SB 452             Rep. Moss (R)              Health               Suppliers of chatbots used for mental health
+                                                                        must disclose information to users and avoid in-
+                                                                        interaction advertising. They have an affirmative
+                                                                        defense if they document properly and create a
+                                                                        detailed safeguard policy.
+
+                         KEY BILLS THAT PASSED AT LEAST ONE CHAMBER
+California SB 238       Sen. Smallwood-            Employment           Would require an employer to annually provide a
+                        Cuevas (D)                                      notice to the Department of workplace surveillance
+                                                                        tools used, including the data that will be collected
+                                                                        from workers and consumers and whether they will
+                                                                        have the option of opting out of the collection of
+                                                                        personal data.
+
+California SB 420       Sen. Padilla (D)           High-Risk AI         Would regulate high-risk ADMT by requiring an
+                                                   / Automated          impact assessment and governance program.
+                                                   Decisionmaking       Employers would be required to notify individuals
+                                                                        subject to an ADS decision and allow an opportunity
+                                                                        to appeal the decision.
+
+California AB 1018      Asm. Bauer-Kahan           High-Risk AI         Would regulate ADMT used to make consequential
+                        (D)                        / Automated          decisions, requiring deployers to provide disclosures
+                                                   Decisionmaking       and opt-outs for those subject to ADS, and execute
+                                                                        performance evaluations and third-party audits.
+
+Connecticut SB 2        Sen. Maroney (D)           High-Risk AI         Would regulate high-risk AI systems used in
+                                                   / Automated          consequential decisions, requiring developer
+                                                   Decisionmaking       to deployer disclosures, consumer disclosures,
+                                                                        impact assessments, AI governance programs, and
+                                                                        consumer rights to correct and appeal decisions.
+
+New York S 1169         Sen. Gonzalez (D)          High-Risk AI         Would regulate high-risk AI systems, requiring user
+                                                   / Automated          notice, the right to opt-out, and appeal adverse
+                                                   Decisionmaking       decisions. It would also prohibit use of a high-risk AI
+                                                                        system that produces algorithmic discrimination or
+                                                                        has not passed an independent audit.
+
+Virginia HB 2094        Del. Maldonado (D)         High-Risk AI         Would regulate AI systems used in consequential
+(Veto’ed by Governor)                              / Automated          decisions, requiring entities to use reasonable care
+                                                   Decisionmaking       to protect consumers from algorithmic discrimination,
+                                                                        conduct impact assessments, manage a risk management
+                                                                        program, and provide consumers the right to explanation
+                                                                        and appeal where there is an adverse decision.
+
+
+                                           Future of Privacy Forum | The State of State AI 2025 | SUPPLEMENTAL | October 2025     14
+  Table 13. Enrolled or Enacted and Passed (in at least one chamber) Technology-Specific AI Bills
+
+Includes the bill number, author, category, and description of bills enacted, as well as bills passing at least
+one legislative chamber, in 2025 under the theme of Technology-Specific.
+  = Signed by Governor and Enrolled or Enacted       = Passed Chamber       = Passed Chamber + Cross-Committee
+  = Passed Both Chambers + Vetoed by Govenor
+
+
+                          KEY BILLS THAT PASSED AT LEAST ONE CHAMBER
+ Bill Number            Author                     Category             Description
+
+ Arkansas HB 1876       Rep. Richardson (R)        Generative AI        Declares that the person who provides the input or
+                                                                        data to a generative AI tool shall be the owner of the
+                                                                        generated content or resulting trained model.
+
+ California SB 243      Sen. Padilla (D)           Chatbots             Would require AI companion chatbot platforms to
+ (Awaiting Governor                                                     publish safety protocols addressing suicide and
+ action)                                                                self-harm, take reasonable steps to prevent specified
+                                                                        conduct, and remind users the chatbot is not human.
+
+ California SB 53       Sen. Weiner (D)            Frontier/            Requires large developers of frontier models to write
+                                                   Foundation           and publish a frontier AI framework and implement
+ (Awaiting Governor
+                                                   Models               appropriate safeguards to prevent “catastrophic
+ action)
+                                                                        risk.” Includes protections against retaliation for
+                                                                        employee whistleblowers.
+
+ California SB 11       Sen. Ashby (D)             Generative AI        Would require providers of AI systems designed to
+ (Awaiting Governor                                                     create digital replicas to provide a consumer warning
+ action)                                                                that misuse may result in criminal liability.
+
+ California AB 1064     Asm. Bauer-Kahan           Chatbots             Would regulate ”companion chatbots” available to
+ (Awaiting Governor     (D)                                             children; operators would be prohibited from making
+ action)                                                                a companion chatbot available to a child if capable of
+                                                                        specified harms (e.g. offering mental health therapy,
+                                                                        encouraging violence or self harm, etc.).
+
+ California AB 853      Asm. Wicks (D)             Generative AI        Would offer amendments to the California AI
+ (Awaiting Governor                                                     Transparency Act, requiring large online platforms to
+ action)                                                                provide a user interface to disclose the availability
+                                                                        of system provenance data. The bill would add new
+                                                                        obligations for capture device manufacturers and
+                                                                        introduce new restrictions for GenAI platforms.
+
+ Maine LD 1727          Rep. Kuhn (D)              Chatbots             Requires disclosure to consumers when they are
+                                                                        interacting with an AI chatbot. It prohibits using AI in
+                                                                        a way that could mislead a reasonable consumer into
+                                                                        believing they are talking to a real person, unless a
+                                                                        clear and conspicuous notice is provided.
+
+ New York S 6453        Sen. Gounardes (D)         Frontier/            The “Responsible AI Safety and Education (RAISE)
+                        & Asm. Bores (D)           Foundation           Act,” requires large developers of frontier models to
+ (Awaiting Governor
+                                                   Models               write and publish a safety and security protocol and
+ action)
+                                                                        implement appropriate safeguards to prevent an
+                                                                        “unreasonable risk of critical harm.”
+
+
+
+
+                                           Future of Privacy Forum | The State of State AI 2025 | SUPPLEMENTAL | October 2025      15
+Table 13. Enrolled or Enacted and Passed (in at least one chamber) Technology-Specific AI Bills
+                                                                                                             (continued)
+
+
+New York S-3008C    N/A (FY26 Budget)         Chatbots             Prohibits operators from offering AI companion
+                                                                   chatbots without a protocol to detect and respond
+                                                                   to suicidal ideation or self-harm, including referring
+                                                                   users to crisis services. Operators must also provide
+                                                                   clear and conspicuous notifications informing users
+                                                                   that they are not communicating with a human.
+
+Utah SB 452         Rep. Moss (R)             Chatbots             Suppliers of mental health chatbots must refrain
+                                                                   from advertising any products or services during
+                                                                   user interactions unless explicitly disclosed, and are
+                                                                   prohibited from the sale or sharing of individually
+                                                                   identifiable health information gathered from users.
+
+                     KEY BILLS THAT PASSED AT LEAST ONE CHAMBER
+California AB 410   Asm. Wilson (D)           Chatbots             Would amend the state’s chatbot law to clarify
+                                                                   that “chatbots” include generative AI-automated
+                                                                   accounts. It would prohibit using bots to mislead
+                                                                   others about their artificial identity and require
+                                                                   disclosure that they are not human before any initial
+                                                                   interaction and upon user inquiry.
+
+New York S 6954     Sen. Gounardes (D)        Generative AI        The “Stop Deepfakes Act,” would require generative
+                                                                   AI providers to include provenance data on
+                                                                   synthetic content produced or modified by a
+                                                                   generative AI system.
+
+New York S 5668     Sen. Gonzalez (D)         Chatbots             Would establish liability standards for chatbot
+                                                                   responses, preventing proprietors of chatbots from
+                                                                   waiving liability if a chatbot provides misleading or
+                                                                   incorrect information that harms a user, including
+                                                                   self-harm. It also includes disclosure and notice
+                                                                   provisions and sets additional requirements for
+                                                                   proprietors interacting with minor users.
+
+New York S 934      Sen. Gonzalez (D)         Generative AI        Would require owners and operators of generative AI
+                                                                   systems to conspicuously display a warning on the
+                                                                   user interface that informs users that the system’s
+                                                                   outputs may be inaccurate or inappropriate.
+
+New York A 6578     Asm. Bores (D)            Generative AI        The “AI Training Data Transparency Act,” would
+                                                                   regulate generative AI model/service training data,
+                                                                   including requiring generative artificial intelligence
+                                                                   model/service developers to publicly post
+                                                                   information on their training data.
+
+
+
+
+                                      Future of Privacy Forum | The State of State AI 2025 | SUPPLEMENTAL | October 2025    16
+ Table 14. Enrolled or Enacted and Passed (in at least one chamber) Liability AI Bills
+
+Includes the bill number, author, category, and description of bills enrolled or enacted, as well as bills
+passing at least one legislative chamber, in 2025 under the theme of Liability and Accountability.
+  = Signed by Governor and Enrolled or Enacted        = Passed Chamber       = Passed Chamber + Cross-Committee
+  = Passed Both Chambers + Vetoed by Govenor
+
+
+                                          ENROLLED OR ENACTED BILLS
+ Bill Number            Author                      Category             Description
+
+ California SB 53       Sen. Weiner (D)             Foundation           Requires large developers of frontier models to write
+ (Awaiting Governor                                 Models/AI            and publish a frontier AI framework and implement
+ action)                                            Safety               appropriate safeguards to prevent “catastrophic risk.”
+                                                                         Includes protections against retaliation for employee
+                                                                         whistleblowers.
+
+ California AB 853      Asm. Wicks (D)              GenAI                Would offer amendments to the California AI
+ (Awaiting Governor                                                      Transparency Act, requiring large online platforms to
+ action)                                                                 provide a user interface to disclose the availability
+                                                                         of system provenance data. The bill would add new
+                                                                         obligations for capture device manufacturers and
+                                                                         introduce new restrictions for GenAI platforms.
+
+ California AB 489      Asm. Bonta (D)              Health               Would provide regulators the authority to enforce
+ (Awaiting Governor                                                      title protections against those who develop or deploy
+ action)                                                                 AI systems that claim to be licensed or certified
+                                                                         health professionals.
+
+ California AB 316      Asm. Krell (D)              Employment           Would clarify that in actions against defendants that
+ (Awaiting Governor                                                      developed or used AI, it is not a legal defense that
+ action)                                                                 the AI autonomously caused the harm.
+
+
+ Montana SB 212         Sen. Zolnikov (R)           Miscellaneous        Would create the “right to compute” and prohibit the
+                                                                         government from restricting the use or development
+                                                                         of AI without demonstration of necessity.
+
+
+ New York S 6453        Sen. Gounardes (D)          Frontier Models/     Among other things, the “Responsible AI Safety and
+ (formerly S 6953)                                  AI Safety            Education (RAISE) Act” would broadly authorize the
+ (Awaiting Governor
+                                                                         New York AG to investigate and enforce state liability
+ action)                                                                 laws and regulations.
+
+
+ Texas HB 149           Rep. Capriglione (R)        Government           Among other things, the “Texas Responsible AI
+ (TRAIGA)                                           Use/Liability        Governance Act” (TRAIGA) institutes a regulatory
+                                                                         sandbox, provides broad authority to the Texas AG to
+                                                                         issue civil investigative demands (CIDs), and create
+                                                                         rebuttable presumptions, affirmative defenses, and a
+                                                                         right to cure.
+
+ Utah HB 452            Rep. Moss (R)               Health/              It would also allow businesses to take advantage
+                                                    Transparency/        of an affirmative defense, provided they maintain
+                                                    Chatbots             certain AI governance measures.
+
+
+
+
+                                            Future of Privacy Forum | The State of State AI 2025 | SUPPLEMENTAL | October 2025    17
+Table 14. Enrolled or Enacted and Passed (in at least one chamber) Liability AI Bills (continued)
+
+
+
+                      KEY BILLS THAT PASSED AT LEAST ONE CHAMBER
+
+California AB 1405   Asm. Bauer-Kahan (D)     AI Safety            Would require an AI auditor to enroll with the
+                                                                   Government Operations Agency, where individuals
+                                                                   could report misconduct by an enrolled AI auditor on
+                                                                   the agency’s website.
+
+California SB 813    Sen. McNerney (D)        AI Safety            Would establish independent, third-party
+                                                                   “multistakeholder regulatory organizations” (MRO)
+                                                                   that would devise safety standards and later certify
+                                                                   and monitor AI developers and deployers who meet
+                                                                   the standards.
+
+Connecticut SB 2     Sen. Maroney (D)         Comprehensive        Would establish an artificial intelligence regulatory
+                                              AI                   sandbox program.
+
+New York             Sen. Gonzalez (D)        Chatbots             Would establish liability standards for chatbot
+S 5668 / A 6767                                                    responses, preventing proprietors of chatbots from
+                                                                   waiving liability if a chatbot provides misleading or
+                                                                   incorrect information that harms a user, including self-
+                                                                   harm. It also includes disclosure and notice provisions.
+
+New York A 6578      Asm. Bores (D)           GenAI                As part of a liability regime, this bill would require
+                                                                   generative AI model developers to publicly post
+                                                                   information on their training data.
+
+New York S 6954      Sen. Gounardes (D)       GenAI                As part of a liability regime, this bill would require
+                                                                   generative AI providers to include provenance data
+                                                                   on synthetic content produced or modified by a
+                                                                   generative AI system.
+
+New York             Sen. Gonzalez (D)        ADMT/High-Risk       Among other things, this bill would also create
+S 1169 / A 8884                               AI                   whistleblower protections,
+
+New York A 8833      Asm. Bores (D)           Liability            The “Understanding Artificial Intelligence Act”
+                                                                   would implement a liability regime for developers of
+                                                                   covered artificial intelligence models. The bill would
+                                                                   hold developers of covered models “strictly liable,”
+                                                                   regardless of the degree of care they exercised for
+                                                                   all injuries to a non-user of a covered model.
+
+Virginia HB 2094     Del. Maldonado (D)       ADMT/High-Risk       Would regulate AI systems used in consequential
+                                              AI                   decisions, requiring entities to use reasonable care
+(Vetoed)
+                                                                   to protect consumers from algorithmic discrimination.
+                                                                   The bill would be enforced by the state AG, with
+                                                                   authority to issue civil investigative demands (CIDs),
+                                                                   and similar affirmative defenses to Colorado,
+                                                                   including a right to cure.
+
+
+
+
+                                      Future of Privacy Forum | The State of State AI 2025 | SUPPLEMENTAL | October 2025      18
+ Table 15. Definitions of Artificial Intelligence in 2025 AI Bills
+
+Breakdown of definitions of “artificial intelligence” in enrolled, enacted and key bills in 2025.
+
+ Legislation        Terminology                   Definition
+
+ California SB 53   Artificial Intelligence       Means an engineered or machine-based system that varies in its level of
+                    Model                         autonomy and that can, for explicit or implicit objectives, infer from the
+                                                  input it receives how to generate outputs that can influence physical or
+                                                  virtual environments.
+
+ California SB 7    Artificial Intelligence       Means an engineered or machine-based system that varies in its level of
+                                                  autonomy and that can, for explicit or implicit objectives, infer from the
+                                                  input it receives how to generate outputs that can influence physical or
+                                                  virtual environments.
+
+ California         Artificial Intelligence       Means an engineered or machine-based system that varies in its level of
+ AB 1018                                          autonomy and that can, for explicit or implicit objectives, infer from the
+                                                  input it receives how to generate outputs that can influence physical or
+                                                  virtual environments.
+
+ Montana            Artificial Intelligence       Means any machine learning-based system that, for any explicit or implicit
+ SB 212             System                        objective, infers from the inputs the system receives how to generate
+                                                  outputs, including but not limited to content, decisions, predictions, and
+                                                  recommendations that can influence physical or virtual environments.
+
+ Nevada AB 406      Artificial Intelligence       Means a machine-based system that, for any explicit or implicit
+                                                  objective, infers from the inputs the system receives how to generate
+                                                  outputs, including, without limitation, content, decisions, predictions, or
+                                                  recommendations that can influence physical or virtual environments.
+
+ New York           Artificial Intelligence       Means a machine-based system that can, for a given set of human-defined
+ S-3008C            or Artificial Intelligence    objectives, make predictions, recommendations, or decisions influencing
+ (FY26 Budget)      Technology or AI              real or virtual environments, and that uses machine- and human- based
+                                                  inputs to perceive real and virtual environments, abstract such perceptions
+                                                  into models through analysis in an automated manner, and use model
+                                                  inference to formulate options for information or action.
+
+ Texas HB 149       Artificial Intelligence       Means any machine-based system that, for any explicit or implicit objective,
+                    System                        infers from the inputs the system receives how to generate outputs,
+                                                  including content, decisions, predictions, or recommendations, that can
+                                                  influence physical or virtual environments.
+
+ Utah SB 226        Artificial Intelligence       Means a machine-based system that makes predictions, recommendations,
+                                                  or decisions influencing real or virtual environments.
+
+
+ Illinois HB 1806   Artificial Intelligence       Means a machine-based system that, for explicit or implicit objectives, infers,
+                                                  from the input it receives, how to generate outputs such as predictions,
+                                                  content, recommendations, or decisions that can influence physical or virtual
+                                                  environments. “Artificial intelligence” includes generative artificial intelligence.
+
+ New York           Artificial Intelligence       Means a machine-based system that can, for a given set of human-defined
+ S 6453                                           objectives, make predictions, recommendations, or decisions influencing
+                                                  real or virtual environments, and that uses machine- and human-based
+                                                  inputs to perceive real and virtual environments, abstract such perceptions
+                                                  into models through analysis in an automated manner, and use model
+                                                  inference to formulate options for information or action.
+
+
+                                          Future of Privacy Forum | The State of State AI 2025 | SUPPLEMENTAL | October 2025             19
+ Table 16. Definitions of Frontier/Foundation Models in 2025 AI Bills
+
+Breakdown of definitions of “frontier model” and “foundation model” in enrolled, enacted and
+key bills in 2025.
+ Legislation     Terminology           Definition
+
+ New York         Frontier Model        Means either of the following:
+ A 6953                                          (a) an artificial intelligence model trained using greater than 10º26
+ (RAISE Act)                                     computational operations (e.g., integer or floating-point operations), the
+                                                 compute cost of which exceeds one hundred million dollars; or
+                                                 (b) an artificial intelligence model produced by applying knowledge
+                                                 distillation to a frontier model as defined in paragraph (a) of this
+                                                 subdivision, provided that the compute cost for such model produced by
+                                                 applying knowledge distillation exceeds five million dollars.
+
+ California       Foundation Model;     Foundation Model: An artificial intelligence model that is all of the following:
+ SB 53            Frontier Model                 (1) Trained on a broad data set.
+ (TFAIA)
+                                                 (2) Designed for generality of output.
+                                                 (3) Adaptable to a wide range of distinctive tasks.
+                                        Frontier Developer: A person who has trained, or initiated the training of, a frontier
+                                        model, with respect to which the person has used, or intends to use, at least as
+                                        much computing power to train the frontier model as would meet the technical
+                                        specifications found in subdivision (i).
+                                        (i) (1) Frontier model: A foundation model that was trained using a quantity of
+                                        computing power greater than 10^26 integer or floating-point operations.
+                                        (2) The quantity of computing power shall include computing for the original
+                                        training run and for any subsequent fine-tuning, reinforcement learning, or other
+                                        material modifications the developer applies to a preceding foundation model.
+                                        (j) Large frontier developer: A frontier developer that together with its affiliates
+                                        collectively had an annual gross revenues in excess of five hundred million
+                                        dollars in the preceding calendar year.
+
+
+
+
+                                      Future of Privacy Forum | The State of State AI 2025 | SUPPLEMENTAL | October 2025       20
+ Table 17. Definitions of Generative Artificial Intelligence in 2025 AI Bills
+
+Breakdown of definitions of “generative artificial intelligence” in enrolled, enacted and key bills in 2025.
+
+ Legislation         Terminology                    Definition
+
+ New York            Generative Artificial          Means a class of artificial intelligence models that are self-supervised
+ S 6954              Intelligence System            and emulate the structure and characteristics of input data to generate
+                                                    derived synthetic content, including, but not limited to, images, videos,
+                                                    audio, text, and other digital content.
+
+ New York            Generative Artificial          Same as above
+ A 6578              Intelligence
+                                                    Means a class of artificial intelligence models that are self-supervised
+                                                    and emulate the structure and characteristics of input data to generate
+                                                    derived synthetic content, including, but not limited to, images, videos,
+                                                    audio, text, and other digital content.
+
+ New York S 934      Generative Artificial          Same as above
+                     Intelligence System
+                                                    Means a class of artificial intelligence models that are self-supervised
+                                                    and emulate the structure and characteristics of input data to generate
+                                                    derived synthetic content, including, but not limited to, images, videos,
+                                                    audio, text, and other digital content.
+
+ California          Generative Artificial          Means artificial intelligence that can generate derived synthetic
+ AB 1064             Intelligence                   content, including text, images, video, and audio, that emulates the
+                                                    structure and characteristics of the artificial intelligence’s training data.
+
+ California          Generative Artificial          Means artificial intelligence that can generate derived synthetic
+ AB 853              Intelligence System/           content, including text, images, video, and audio, that emulates the
+                     GenAI system                   structure and characteristics of the system’s training data.
+
+ Examples of definitions from other bills that did not proceed to first chamber:
+
+ Massachusetts       GenAI Model                    An AI model designed to generate new data or content based on
+ H 90                                               the patterns or structures from its training data. For clarity, this does
+                                                    not include non-generative capabilities like classification, predictions
+                                                    or labeling.
+
+ Maryland            Generative Artificial          Means artificial intelligence that can generate derived synthetic content,
+ HB 823              Intelligence                   such as a text, images, video, and audio, that emulates the structure and
+                                                    characteristics of the data used to train the artificial intelligence.
+
+ Virginia            Generative Artificial          Means artificial intelligence based on a foundation model that is
+ HB 2250             Intelligence                   capable of and used to produce synthetic digital content, including
+                                                    audio, images, text, and videos.
+
+
+
+
+                                         Future of Privacy Forum | The State of State AI 2025 | SUPPLEMENTAL | October 2025         21
+ Table 18. Definitions of Chatbots in 2025 AI Bills
+
+Breakdown of definitions of “chatbot” included in enrolled, enacted and key bills in 2025.
+
+ Legislation    Terminology                   Definition
+
+ California     Companion Chatbot             An artificial intelligence system with a natural language interface that provides
+ SB 243                                       adaptive, human-like responses to user inputs and is capable of meeting a
+                                              user’s social needs, including by exhibiting anthropomorphic features and being
+                                              able to sustain a relationship across multiple interactions.
+
+ California     Companion Chatbot             A generative artificial intelligence system with a natural language interface that
+ AB 1064                                      simulates a sustained humanlike relationship with a user by doing all of the
+                                              following:
+                                                 (A) Retaining information on prior interactions or user sessions and
+                                                 user preferences to personalize the interaction and facilitate ongoing
+                                                 engagement with the companion chatbot.
+                                                 (B) Asking unprompted or unsolicited emotion-based questions that go
+                                                 beyond a direct response to a user prompt.
+                                                 (C) Sustaining an ongoing dialogue concerning matters personal to the user.
+
+ California     Bot                           An automated online account or application that a reasonable person could
+ AB 410                                       believe is a human being and with respect to which substantially all of the
+                                              actions or posts of that account or application are the outputs of generative
+                                              artificial intelligence.
+
+ Maine          Artificial Intelligence       Means a software application, web interface or computer program that simulates
+ LD 1727        Chatbot                       human conversation and interaction through textual or aural communications.
+
+
+ New York       AI Companion                  A system using artificial intelligence, generative artificial intelligence, and/
+ S 5668                                       or emotional recognition algorithms to simulate social human interaction,
+                                              by retaining information on prior interactions and user preference, asking
+                                              questions, providing advice, and engaging in simulated conversation on matters
+                                              of personal well-being.
+
+ New York       AI Companion                  A system using artificial intelligence, generative artificial intelligence, and/or
+ S-3008C                                      emotional recognition algorithms designed to simulate a sustained human or
+                                              human-like relationship with a user by:
+                                              (i) retaining information on prior interactions or user sessions and user
+                                              preferences to personalize the interaction and facilitate ongoing engagement
+                                              with the AI companion;
+                                              (ii) asking unprompted or unsolicited emotion-based questions that go beyond
+                                              a direct response to a user prompt; and
+                                              iii) sustaining an ongoing dialogue concerning matters personal to the user.
+
+
+ Utah           Mental Health Chatbot         “Mental health chatbot” means an artificial intelligence technology that:
+ SB 452                                       (i) uses generative artificial intelligence to engage in interactive conversations
+                                              with a user of the mental health chatbot similar to the confidential
+                                              communications that an individual would have with a licensed mental health
+                                              therapist; and
+                                              (ii) a supplier represents, or a reasonable person would believe, can or
+                                              will provide mental health therapy or help a user manage or treat mental
+                                              health conditions.
+
+
+
+
+                                          Future of Privacy Forum | The State of State AI 2025 | SUPPLEMENTAL | October 2025       22
+1350 EYE STREET NW, SUITE 350 | WASHINGTON, DC 20005   FPF.ORG | info@fpf.org
+
