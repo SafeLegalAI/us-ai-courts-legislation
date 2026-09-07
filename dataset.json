@@ -1,0 +1,44 @@
+{
+ "pretty_name": "US legislation on AI in courts, evidence and legal services",
+ "title": "US legislation on AI in courts, evidence and legal services",
+ "headline": "{n_bills} state and federal bills and enacted laws (2023–2026) whose operative sections address AI-generated evidence, AI in courts and the judiciary, AI legal services and unauthorized practice, attorneys' AI use, AI-drafted police reports and criminal-justice disclosure, legal aid, or court-record use for AI training — each with status, last action, operative sections and primary text.",
+ "canonical_path": "/regulation/legislation",
+ "tags": [
+  "legislation",
+  "courts",
+  "evidence",
+  "unauthorized-practice",
+  "state-law",
+  "congress"
+ ],
+ "what_a_row_is": "One bill or enacted law, one row: `jurisdiction` (US or state code), `session`, `bill_number`, `title`, `lane[]` (evidence · courts-judiciary · legal-services-upl · attorney-ai-use · police-reports-criminal · legal-aid-a2j · court-records-training), `status`, `status_date`, `last_action`, `effective_date`, `operative_sections[]`, a 40–60-word `summary`, `sponsors[]`, `text_url`, `status_url`, `legiscan_bill_id`, provenance.",
+ "method": "LegiScan (CC BY 4.0) and Open States (public domain) for discovery and metadata, Congress.gov/govinfo for federal bills, the state legislature's own bill page as `source_url`; NCSL, FPF, MultiState, CDT, Steptoe and AGORA trackers as leads only. Strict lane rule: general AI-regulation bills are excluded unless an operative section addresses courts, evidence, legal services or legal practice. Status is re-checked weekly during sessions.",
+ "licence_note": "Bill texts and statutes are government edicts (public domain — *Georgia v. Public.Resource.Org* (2020)); LegiScan metadata is CC BY 4.0 (attribution: LegiScan LLC); Open States data is public domain.",
+ "banned_hosts": [
+  "advance.lexis.com",
+  "westlaw.com",
+  "statenet"
+ ],
+ "tables": {
+  "bills": {
+   "id_field": "bill_id",
+   "dedupe_fields": [
+    "jurisdiction",
+    "session",
+    "bill_number"
+   ],
+   "sort_field": "status_date",
+   "sort_desc": true,
+   "site_path": "/regulation/legislation/{bill_id}",
+   "row_is": "one bill or enacted law with an in-lane operative section",
+   "count_fields": [
+    "jurisdiction",
+    "status",
+    "lane",
+    "verification"
+   ]
+  }
+ },
+ "repo": "us-ai-courts-legislation",
+ "version": "0.1.0"
+}
