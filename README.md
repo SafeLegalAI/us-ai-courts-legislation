@@ -90,4 +90,4 @@ Provided as is, without warranty. Not legal advice. SafeLegalAI (Cognesio LLP) r
 
 ## Cite
 
-> SafeLegalAI (Cognesio LLP), "US legislation on AI in courts, evidence and legal services", v0.1.1, 2026-09-07. https://huggingface.co/datasets/safelegalaidata/us-ai-courts-legislation — CC BY 4.0. Canonical: https://safelegalai.com/regulation/legislation
+> SafeLegalAI (Cognesio LLP), "US legislation on AI in courts, evidence and legal services", v0.1.2, 2026-09-07. https://huggingface.co/datasets/safelegalaidata/us-ai-courts-legislation — CC BY 4.0. Canonical: https://safelegalai.com/regulation/legislation
