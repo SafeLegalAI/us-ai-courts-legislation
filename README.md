@@ -24,13 +24,13 @@ configs:
 
 # US legislation on AI in courts, evidence and legal services
 
-**41 state and federal bills and enacted laws (2023–2026) whose operative sections address AI-generated evidence, AI in courts and the judiciary, AI legal services and unauthorized practice, attorneys' AI use, AI-drafted police reports and criminal-justice disclosure, legal aid, or court-record use for AI training — each with status, last action, operative sections and primary text.**
+**40 state and federal bills and enacted laws (2023–2026) whose operative sections address AI-generated evidence, AI in courts and the judiciary, AI legal services and unauthorized practice, attorneys' AI use, AI-drafted police reports and criminal-justice disclosure, legal aid, or court-record use for AI training — each with status, last action, operative sections and primary text.**
 
 Built 2026-09-07 by [SafeLegalAI](https://safelegalai.com) (Cognesio LLP). Canonical pages: [safelegalai.com/regulation/legislation](https://safelegalai.com/regulation/legislation) · repository, pipeline and issues: [https://github.com/SafeLegalAI/us-ai-courts-legislation](https://github.com/SafeLegalAI/us-ai-courts-legislation) · this mirror: [https://huggingface.co/datasets/safelegalaidata/us-ai-courts-legislation](https://huggingface.co/datasets/safelegalaidata/us-ai-courts-legislation).
 
 | table | rows | one row is |
 |---|---|---|
-| `bills` | 41 | one bill or enacted law with an in-lane operative section |
+| `bills` | 40 | one bill or enacted law with an in-lane operative section |
 
 Every row carries `source_url`, `fetched_at` and, where the Wayback Machine accepted the page, `archive_url`; `url` links the canonical page on safelegalai.com; `notice` carries the terms below. Full schemas: `schema/`.
 
@@ -41,7 +41,7 @@ One bill or enacted law, one row: `jurisdiction` (US or state code), `session`, 
 | value | rows |
 |---|---|
 | NY | 15 |
-| CA | 6 |
+| CA | 5 |
 | MD | 4 |
 | US | 3 |
 | VA | 3 |
@@ -61,18 +61,18 @@ One bill or enacted law, one row: `jurisdiction` (US or state code), `session`, 
 | in-committee | 19 |
 | in-force | 10 |
 | died | 7 |
-| enrolled | 2 |
 | introduced | 2 |
 | veto-sustained | 1 |
+| enrolled | 1 |
 
 ### `bills` by `lane`
 
 | value | rows |
 |---|---|
 | evidence | 18 |
-| courts-judiciary | 17 |
+| courts-judiciary | 16 |
 | police-reports-criminal | 14 |
-| attorney-ai-use | 8 |
+| attorney-ai-use | 7 |
 | legal-services-upl | 5 |
 | legal-aid-a2j | 3 |
 
@@ -90,4 +90,4 @@ Provided as is, without warranty. Not legal advice. SafeLegalAI (Cognesio LLP) r
 
 ## Cite
 
-> SafeLegalAI (Cognesio LLP), "US legislation on AI in courts, evidence and legal services", v0.1.0, 2026-09-07. https://huggingface.co/datasets/safelegalaidata/us-ai-courts-legislation — CC BY 4.0. Canonical: https://safelegalai.com/regulation/legislation
+> SafeLegalAI (Cognesio LLP), "US legislation on AI in courts, evidence and legal services", v0.1.1, 2026-09-07. https://huggingface.co/datasets/safelegalaidata/us-ai-courts-legislation — CC BY 4.0. Canonical: https://safelegalai.com/regulation/legislation
