@@ -24,6 +24,8 @@ configs:
 
 # US legislation on AI in courts, evidence and legal services
 
+> Part of the [SafeLegalAI datasets](https://safelegalai.com/datasets) — CC BY 4.0, mirrored on [Hugging Face](https://huggingface.co/datasets/safelegalaidata/us-ai-courts-legislation). Every row links to its record page and its primary source. Found an error in a row? [Open an issue](https://github.com/SafeLegalAI/us-ai-courts-legislation/issues/new?template=row-error.yml) or use [safelegalai.com/report](https://safelegalai.com/report).
+
 **41 state and federal bills and enacted laws (2023–2026) whose operative sections address AI-generated evidence, AI in courts and the judiciary, AI legal services and unauthorized practice, attorneys' AI use, AI-drafted police reports and criminal-justice disclosure, legal aid, or court-record use for AI training — each with status, last action, operative sections and primary text.**
 
 Built 2026-09-07 by [SafeLegalAI](https://safelegalai.com) (Cognesio LLP). Canonical pages: [safelegalai.com/regulation/legislation](https://safelegalai.com/regulation/legislation) · repository, pipeline and issues: [https://github.com/SafeLegalAI/us-ai-courts-legislation](https://github.com/SafeLegalAI/us-ai-courts-legislation) · this mirror: [https://huggingface.co/datasets/safelegalaidata/us-ai-courts-legislation](https://huggingface.co/datasets/safelegalaidata/us-ai-courts-legislation).
