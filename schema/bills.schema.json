@@ -75,7 +75,7 @@
    "minItems": 1,
    "items": {
     "type": "string",
-    "maxLength": 300
+    "maxLength": 400
    },
    "description": "1–4 statements, each traceable to a section, citing it"
   },
@@ -114,7 +114,7 @@
     "string",
     "null"
    ],
-   "maxLength": 1200,
+   "maxLength": 2000,
    "description": "verbatim operative text (public domain)"
   },
   "source_url": {

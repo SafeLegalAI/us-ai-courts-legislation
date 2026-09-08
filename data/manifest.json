@@ -12,11 +12,11 @@
    "file": "data/bills.jsonl",
    "schema": "schema/bills.schema.json",
    "stats": {
-    "rows": 40,
-    "rejected": 1,
+    "rows": 41,
+    "rejected": 0,
     "by_jurisdiction": {
      "NY": 15,
-     "CA": 5,
+     "CA": 6,
      "MD": 4,
      "US": 3,
      "VA": 3,
@@ -33,20 +33,20 @@
      "in-committee": 19,
      "in-force": 10,
      "died": 7,
+     "enrolled": 2,
      "introduced": 2,
-     "veto-sustained": 1,
-     "enrolled": 1
+     "veto-sustained": 1
     },
     "by_lane": {
      "evidence": 18,
-     "courts-judiciary": 16,
+     "courts-judiciary": 17,
      "police-reports-criminal": 14,
-     "attorney-ai-use": 7,
+     "attorney-ai-use": 8,
      "legal-services-upl": 5,
      "legal-aid-a2j": 3
     },
     "by_verification": {
-     "fetched-and-read": 40
+     "fetched-and-read": 41
     }
    }
   }
